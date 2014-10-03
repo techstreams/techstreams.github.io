@@ -1,1 +1,1 @@
-A project website for [@techstreams](https://github.com/techstreams)
+A [project website](http://techstreams.github.io) for [@techstreams](https://github.com/techstreams)
