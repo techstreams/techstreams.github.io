@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Tech Streams"
+tagline:          'thoughts.toString();'
+description:      'Thoughts on scripting, workflow automation ... <em>and more</em>'
+baseurl:          ''
+encoding:         utf-8
+paginate:         5
+exclude:          ["LICENSE.md", "README.md", "_config.yml", ".gitignore", ".editorconfig"]
+
+# Author Configuration
+author:
+  name:           'Laura Taylor'
+  url:            http://techstreams.github.io
+
+# Google Analytics Configuration - site specific
+google_analytics:
+  tracking_id:      UA-60373132-2
+
+
+
