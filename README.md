@@ -1,4 +1,4 @@
-This is the personal blog of [Laura Taylor](https://github.com/techstreams), host by [Github Pages](https://pages.github.com/). You can view it at [http://techstreams.github.io](http://techstreams.github.io)
+This is the personal blog of [Laura Taylor](https://github.com/techstreams) host by [Github Pages](https://pages.github.com/). You can view it at [http://techstreams.github.io](http://techstreams.github.io).
 
 # Credits
 
