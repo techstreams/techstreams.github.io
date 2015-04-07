@@ -5,9 +5,9 @@ tags: [workflow]
 ---
 
 
-We all have workflows we use for our work. But was is a workflow really?  
+We all have workflows we use for our work. But what is a workflow really?  
 
-A simple [Google search](https://www.google.com/search?q=define%3Aworkflow) shows this definition:
+A simple [Google search](https://www.google.com/search?q=define%3Aworkflow) returns this definition:
 
 > *the sequence of industrial, administrative, or other processes through which a piece of work passes from initiation to completion*
 
