@@ -5,7 +5,7 @@ tags: [workflow]
 ---
 
 
-We all have workflows we use for our work. But what is a workflow really?  
+We all have workflows for our work. But what exactly is a workflow?  
 
 A simple [Google search](https://www.google.com/search?q=define%3Aworkflow) returns this definition:
 
@@ -13,7 +13,7 @@ A simple [Google search](https://www.google.com/search?q=define%3Aworkflow) retu
 
 I like that definition.  But what I like ***better*** are tools which ***automate and simplify*** workflows.  
 
-I've found one such tool in the **[Workflow](https://workflow.is/)** app.  
+I've found one such tool in the **[Workflow](https://workflow.is/)** app for iOS.  
 
 ---
 
