@@ -17,7 +17,7 @@ I've found one such tool in the **[Workflow](https://workflow.is/)** app for iOS
 
 ---
 
-According to it's website, the **[Workflow](https://workflow.is/)** app is:
+According to its website, the **[Workflow](https://workflow.is/)** app is:
 
 > *Powerful automation made simple.*
 
