@@ -20,7 +20,7 @@ Leveraging the [Google Drive](https://www.google.com/drive/) platform, I decided
 	<iframe src='http://www.youtube.com/embed/lZqX6ocwHWU' frameborder=0 allowfullscreen></iframe>
 </div>
 
-**TSMarkMail** is a ***Google Docs Add-on*** which converts [markdown](http://daringfireball.net/projects/markdown/) *(an easy-to-read-and-write plain text syntax developed by [John Gruber](http://daringfireball.net/))* into a nicely formatted email which can be sent directly from a Google Document.  
+**[TSMarkMail](http://tsmarkmail.tech-streams.com)** is a ***Google Docs Add-on*** which converts [markdown](http://daringfireball.net/projects/markdown/) *(an easy-to-read-and-write plain text syntax developed by [John Gruber](http://daringfireball.net/))* into a nicely formatted email which can be sent directly from a Google Document.  
 
 *Here are TSMarkMail overview slides.* 
 
