@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TSMarkMail - A Google Docs Add-on
-tags: [google-apps-script]
+tags: [google-apps-script, google-docs]
 ---
 
 I've done a lot of technical support both professionally and personally and on my ***wish list*** has always been a support tool with the following criteria:
