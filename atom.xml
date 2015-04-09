@@ -6,10 +6,10 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }}</title>
- <link href="{{ site.baseurl }}/atom.xml" rel="self"/>
- <link href="{{ site.baseurl }}/"/>
+ <link href="{{ site.author.url }}/atom.xml" rel="self"/>
+ <link href="{{ site.author.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.baseurl }}</id>
+ <id>{{ site.author.url }}</id>
  <author>
    <name>{{ site.author.name }}</name>
    <email/>
@@ -18,9 +18,9 @@ layout: null
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="{{ site.baseurl }}{{ post.url }}"/>
+   <link href="{{ site.author.url}}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.baseurl }}{{ post.id }}</id>
+   <id>{{ site.author.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
