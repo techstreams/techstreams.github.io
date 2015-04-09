@@ -15,8 +15,8 @@ You can find the **TSContactForm** install instructions and documentation **[her
 
 If you are unfamiliar with **Google Forms** or how easy they are to create watch this video.
 
-<div class="embed-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xEY10Ub-k-U" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'>
+	<iframe src="https://www.youtube.com/embed/xEY10Ub-k-U" frameborder=0 allowfullscreen></iframe>
 </div>
 
 
