@@ -9,7 +9,7 @@ tags: [google-apps-script, google-forms]
 
 That's why I created **TSContactForm**.
 
-> **TSContactForm** is a [Google Apps Script](http://www.google.com/script/start/) for **Google Forms** which automatically emails the form owner each time a user submits a response to the form.  Emails are nicely formatted and contain the content of the form submission. 
+> **[TSContactForm](http://techstreams.github.io/TSContactForm/)** is a [Google Apps Script](http://www.google.com/script/start/) for **Google Forms** which automatically emails the form owner each time a user submits a response to the form.  Emails are nicely formatted and contain the content of the form submission. 
 
 You can find the **TSContactForm** install instructions and documentation **[here](http://techstreams.github.io/TSContactForm/)**.
 
