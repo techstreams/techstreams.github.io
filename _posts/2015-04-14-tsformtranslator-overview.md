@@ -4,7 +4,7 @@ title: TSFormTranslator - A Google Forms Script
 tags: [google-apps-script, google-forms]
 ---
 
-The [Google Forms](http://www.google.com/forms/about/) I create are generally intended for an English speaking audience.   But what if my audience natively speaks another language?   
+The **[Google Forms](http://www.google.com/forms/about/)** I create are generally intended for an English speaking audience.   But what if my audience natively speaks another language?   
 
 I decided to answer that question by building **TSFormTranslator**.
 

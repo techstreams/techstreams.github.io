@@ -4,7 +4,7 @@ title: TSMarkMail - A Google Docs Add-on
 tags: [google-apps-script, google-docs]
 ---
 
-I've done a lot of technical support both professionally and personally and on my ***wish list*** has always been a support tool with the following criteria:
+I've done technical support both professionally and personally and on my ***wish list*** has always been a support tool with the following criteria:
 
 * Quick content creation in plain text *(i.e., [markdown](http://daringfireball.net/projects/markdown/))*
 * Ability to embed screenshots and images
