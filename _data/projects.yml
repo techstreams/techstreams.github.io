@@ -14,6 +14,10 @@ items:
         class: btn-default
         icon: fa-github
         name: Github
+      - href: 'http://techstreams.github.io/2015/04/14/tsformtranslator-overview/'
+        class: btn-warning
+        icon: fa-rss
+        name: Blog Post
   - tl_title: TSTranslateKhmer
     tl_badge: success
     tl_icon: fa-file-text
@@ -42,6 +46,10 @@ items:
         class: btn-default
         icon: fa-github
         name: Github
+      - href: 'http://techstreams.github.io/2015/04/09/tscontactform-overview/'
+        class: btn-warning
+        icon: fa-rss
+        name: Blog Post
   - tl_title: TSMarkMail
     tl_badge: primary
     tl_icon: fa-file-text
@@ -56,6 +64,10 @@ items:
         class: btn-success
         icon: fa-file-powerpoint-o
         name: Slides
+      - href: 'http://techstreams.github.io/2015/03/27/tsmarkmail-overview/'
+        class: btn-warning
+        icon: fa-rss
+        name: Blog Post
   - tl_title: MarkIt Web Publisher
     tl_badge: ''
     tl_icon: fa-bullseye
