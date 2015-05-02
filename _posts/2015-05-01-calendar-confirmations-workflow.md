@@ -4,9 +4,9 @@ title: Calendar Confirmations with Workflow
 tags: [workflow]
 ---
 
-I often want to confirm scheduled meetings from my mobile device.  Depending upon the number of meetings, this can take more time than it should ... until now.
+I often want to confirm scheduled meetings from my mobile device.  Depending upon the number, this can take more time than it should ... until now.
 
-Using [Workflow](https://workflow.is/) app automation I built an **[<i class="fa fa-refresh"></i> email calendar confirmations workflow](https://workflow.is/workflows/dbb3567098d64658ab1b62e0408218dc)** which speeds up my confirmation processing.
+Using [Workflow](https://workflow.is/) app automation I built an ***email calendar confirmations workflow*** which speeds up my confirmation processing.
 
 ![Workflow Image]({{site.baseurl}}/images/2015-05-01-workflow.png)
 
@@ -21,7 +21,7 @@ You must install the <a href="https://workflow.is/">Workflow</a> app for iOS bef
 
 **Overview**
 
-1. The **[<i class="fa fa-refresh"></i> email calendar confirmations workflow](https://workflow.is/workflows/dbb3567098d64658ab1b62e0408218dc)** begins by prompting for the number of days to search your calendar.  Enter a *number* at the prompt.
+1. The **[<i class="fa fa-refresh"></i> email calendar confirmations workflow](https://workflow.is/workflows/dbb3567098d64658ab1b62e0408218dc)** begins by asking for the number of days to search your calendar.  Enter a *number* at the prompt.
 
 1. The workflow continues by searching calendar events matching the date range and displays an event list which matches the criteria.  Select one or more events and click *Done* at the top of the selection dialog.  
 
