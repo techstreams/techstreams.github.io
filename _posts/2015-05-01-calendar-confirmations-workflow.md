@@ -4,7 +4,7 @@ title: Calendar Confirmations with Workflow
 tags: [workflow]
 ---
 
-I often want to confirm my scheduled meetings from my mobile device.  Depending upon the number of meetings, this can take more time than it should ... until now.
+I often want to confirm scheduled meetings from my mobile device.  Depending upon the number of meetings, this can take more time than it should ... until now.
 
 Using [Workflow](https://workflow.is/) app automation I built an **[<i class="fa fa-refresh"></i> email calendar confirmations workflow](https://workflow.is/workflows/dbb3567098d64658ab1b62e0408218dc)** which speeds up my confirmation processing.
 
