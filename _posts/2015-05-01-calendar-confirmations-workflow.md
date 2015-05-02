@@ -16,7 +16,7 @@ Using [Workflow](https://workflow.is/) app automation I built an **[<i class="fa
 <br><br>
 You must install the <a href="https://workflow.is/">Workflow</a> app for iOS before installing the following workflow.  
 <br><br>
-<em>Read more about the <a href="https://workflow.is/">Workflow</a> app on my <a href="{{ site.baseurl }}/2015/04/06/ios-automation-with-workflow/">previous post</a>.</em>
+<em>Read more about the <a href="https://workflow.is/">Workflow</a> app in my <a href="{{ site.baseurl }}/2015/04/06/ios-automation-with-workflow/">previous post</a>.</em>
 </p>
 
 **Overview**
