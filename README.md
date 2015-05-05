@@ -10,6 +10,8 @@ This is the personal blog of [Laura Taylor](https://github.com/techstreams) host
 
 The following directories, files and their contents are © Laura Taylor. You may not reuse anything therein without my permission:
 
+* _config.yml
+* _data/
 * _posts/
 * images/
 * about.md
