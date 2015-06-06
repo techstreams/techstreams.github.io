@@ -12,6 +12,7 @@ The following directories, files and their contents are © Laura Taylor. You may
 
 * _config.yml
 * _data/
+* _drafts/
 * _posts/
 * images/
 * about.md
