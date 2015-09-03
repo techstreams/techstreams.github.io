@@ -13,7 +13,7 @@ As the description indicates, **Drafts** is all about ***the text*** ... writing
 
 ![Drafts]({{site.baseurl}}/images/2015-09-03-drafts.png)
 
-The text functionality alone make **Drafts** a powerful text editor.  But with ***[Actions](https://agiletortoise.zendesk.com/hc/en-us/sections/200579370-Actions)*** & ***[Keyboard Extensions](https://agiletortoise.zendesk.com/hc/en-us/sections/200539204-Enhanced-Keyboard)***, limitless possibilities emerge.  Here are a few:
+The text functionality alone makes **Drafts** a powerful text editor.  But with ***[Actions](https://agiletortoise.zendesk.com/hc/en-us/sections/200579370-Actions)*** & ***[Keyboard Extensions](https://agiletortoise.zendesk.com/hc/en-us/sections/200539204-Enhanced-Keyboard)***, limitless possibilities emerge.  Here are a few:
 
 * Cross-post to multiple social media networks including [Twitter](https://twitter.com), [Facebook](https://facebook.com) and [Google+](https://plus.google.com).
 * Use [Markdown](https://agiletortoise.zendesk.com/hc/en-us/articles/204022848) to create, append to or pretend to files in [Dropbox](https://www.dropbox.com), [Google Drive](https://www.google.com/drive/), [Evernote](https://evernote.com/) and [iCloud Drive](http://www.apple.com/icloud/icloud-drive/).
