@@ -31,4 +31,4 @@ In addition to **Drafts'** built-in functionality, you can find more *Actions & 
 
 In upcoming posts I'll be sharing some of my favorite and created ***Drafts*** *Actions &  Keyboard extensions*, along with some workflow tips and tricks.
 
-You can **[Download Drafts on the Apps Store](https://itunes.apple.com/us/app/id905337691)**.
+You can **[Download Drafts on the App Store](https://itunes.apple.com/us/app/id905337691)**.
