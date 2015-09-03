@@ -3,7 +3,7 @@ workflow drafts
 
 **[Drafts](http://agiletortoise.com/drafts/)** is one of my favorite iOS apps for many of my ***[workflows](https://www.google.com/search?q=define%3Aworkflow)***.  So what is **[Drafts](http://agiletortoise.com/drafts/)** and why do I like it?
 
-![Drafts](site.baseurl/images/2015-09-03-Drafts.png)
+![Drafts]({{site.baseurl}}/images/2015-09-03-Drafts.png)
 
 According to the **[website](http://agiletortoise.com/drafts/)**:
 > *Drafts is a different kind of note taking app. In Drafts, text comes first – open the app and get a new, blank draft. Get your text down quickly, then act on it with powerful actions.*
