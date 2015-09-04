@@ -16,7 +16,7 @@ As the description indicates, **Drafts** is all about ***the text*** ... writing
 The text functionality alone makes **Drafts** a powerful text editor.  But with ***[Actions](https://agiletortoise.zendesk.com/hc/en-us/sections/200579370-Actions)*** & ***[Keyboard Extensions](https://agiletortoise.zendesk.com/hc/en-us/sections/200539204-Enhanced-Keyboard)***, limitless possibilities emerge.  Here are a few:
 
 * Cross-post to multiple social media networks including [Twitter](https://twitter.com), [Facebook](https://facebook.com) and [Google+](https://plus.google.com).
-* Use [Markdown](https://agiletortoise.zendesk.com/hc/en-us/articles/204022848) to create, append to or pretend to files in [Dropbox](https://www.dropbox.com), [Google Drive](https://www.google.com/drive/), [Evernote](https://evernote.com/) and [iCloud Drive](http://www.apple.com/icloud/icloud-drive/).
+* Use [Markdown](https://agiletortoise.zendesk.com/hc/en-us/articles/204022848) to create, append to or prepend to files in [Dropbox](https://www.dropbox.com), [Google Drive](https://www.google.com/drive/), [Evernote](https://evernote.com/) and [iCloud Drive](http://www.apple.com/icloud/icloud-drive/).
 * Quickly insert text with [TextExpander Touch](https://smilesoftware.com/TextExpander/touch/index.html) support, including "fill-ins". *(TextExpander Touch is a typing shortcuts app for iOS.)*
 * [Reorder](https://agiletortoise.zendesk.com/hc/en-us/articles/203271330) lines of text with drag and drop. 
 * Integrate with iOS system apps and services such as Email, Messages, Reminders, Events and Clipboard.
