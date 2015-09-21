@@ -104,7 +104,7 @@ In the interest of time, I'll only be highlighting markdown elements I use most 
   * a single underscore `_`
 
 * To display text in ***Bold Italics***, surround text in:
-  * three consecutive astersks `***`
+  * three consecutive asterisks `***`
   * three consecutive underscores `___`
 
 * To display text as ~~Strikethrough~~, surround text in:
