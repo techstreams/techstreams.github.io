@@ -20,17 +20,19 @@ It occurred to me recently that I use ***markdown*** to simplify most of my writ
 
 Markdown converts easily to formatted [HTML](https://en.wikipedia.org/wiki/HTML) which makes it a great tool for writing and publishing.
 
-In addition to the original version, there are several markdown variations:
+In addition to the original version, there are several markdown variations.  Some examples:
 
 * [MultiMarkdown (MMD)](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide)
 * [Github Flavored Markdown (GFM)](https://help.github.com/articles/github-flavored-markdown/)
 
 ### What are the benefits of markdown?
 
-* It's ***easy*** to learn
-* It ***significantly speeds up*** writing/publishing workflows
-* It can be created, edited and stored on a variety of platforms and devices because it's ***just plain text***
-* An increasing number of writing tools and services support it as a ***primary format***
+Markdown:
+
+* Is ***easy*** to learn
+* ***Significantly speeds up*** writing/publishing workflows
+* Can be created, edited and stored on a variety of platforms and devices because it's ***just plain text***
+* Is a ***supported format*** on an increasing number of writing tools and services 
 
 ### Markdown workflow examples? 
 
@@ -212,7 +214,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 ## Link
 
-* Markdown links can be inserted *inline* in text and do not need to begin at the left margin.
+* Markdown links can be inserted *inline* and do not need to begin at the left margin.
 
 * Add links by entering ***link text*** enclosed in `[]` symbols followed by the ***full link url*** enclosed in `()` symbols.
 
@@ -232,7 +234,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 ## Image
 
-* Markdown images can be inserted *inline* in text and do not need to begin at the left margin.
+* Markdown images can be inserted *inline* and do not need to begin at the left margin.
 
 * Add images by entering a `!` symbol followed by the ***image alt text*** enclosed in `[]` symbols followed by the ***full url of the image*** enclosed in `()` symbols.
 
