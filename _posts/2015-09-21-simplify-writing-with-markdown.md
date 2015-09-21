@@ -20,16 +20,14 @@ It occurred to me recently that I use ***markdown*** to simplify most of my writ
 
 Markdown converts easily to formatted [HTML](https://en.wikipedia.org/wiki/HTML) which makes it a great tool for writing and publishing.
 
-In addition to the original version, there are several markdown variations.  Some examples:
+In addition to the original version, there are several markdown variations.  Examples include:
 
 * [MultiMarkdown (MMD)](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide)
 * [Github Flavored Markdown (GFM)](https://help.github.com/articles/github-flavored-markdown/)
 
 ### What are the benefits of markdown?
 
-Markdown:
-
-* Is ***easy*** to learn
+* It's ***easy*** to learn
 * ***Significantly speeds up*** writing/publishing workflows
 * Can be created, edited and stored on a variety of platforms and devices because it's ***just plain text***
 * Is a ***supported format*** on an increasing number of writing tools and services 
