@@ -7,7 +7,7 @@ tags: [drafts, google-docs, markdown]
 
 I frequently need to create [Google Docs](https://www.google.com/docs/about/) from my mobile device.  With [Drafts](http://agiletortoise.com/drafts/), [Markdown](https://daringfireball.net/projects/markdown/), [Google Fonts](https://www.google.com/fonts#AboutPlace:about) and a bit of coding ... I was able to develop a publishing workflow to create ***Impressive Google Docs*** from my iOS device while I'm on the go.
 
-Want to try this workflow for yourself?   Check out my tutorial ***[here](https://docs.google.com/document/d/1xCy-MjiIBzyhzt2iGjuGG4N3DBWau_kgmZiSQapUOOE)***.
+Want to try this workflow for yourself?   Check out my tutorial ***[here](https://docs.google.com/document/d/1xCy-MjiIBzyhzt2iGjuGG4N3DBWau_kgmZiSQapUOOE/edit?usp=sharing)***.
 
 ---
 
