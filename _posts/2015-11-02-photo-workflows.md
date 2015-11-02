@@ -6,7 +6,7 @@ tags: [workflow]
 
 I'm continually looking for workflow improvements when working with photos on my iOS devices. ***[Workflow](https://workflow.is/)*** app to the rescue!
 
-<i class="fa fa-hand-o-right"></i> *See this [previous post]({{ site.baseurl }}2015/04/06/ios-automation-with-workflow/) for more on the [Workflow](https://workflow.is/) app.*
+<i class="fa fa-hand-o-right"></i> *See this [previous post](http://techstreams.github.io/2015/04/06/ios-automation-with-workflow/) for more on the [Workflow](https://workflow.is/) app.*
 
 ---
 
