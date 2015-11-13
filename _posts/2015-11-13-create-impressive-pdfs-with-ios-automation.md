@@ -47,7 +47,7 @@ Install the following apps on your iOS mobile device:
 
 After app installation:
 
-* Install the **[Impressive PDFs Drafts Action](https://drafts4-actions.agiletortoise.com/a/1a1)** from the *[Drafts Action Directory](https://drafts4-actions.agiletortoise.com)*
+* Install the **[Impressive PDFs Drafts Action](https://drafts4-actions.agiletortoise.com/a/1a2)** from the *[Drafts Action Directory](https://drafts4-actions.agiletortoise.com)*
 * Install the **[HTML to PDF](https://workflow.is/workflows/35d87231e09f4a6f9d11bdca0a2510b7)** workflow
 
 <i class="fa fa-exclamation-triangle"></i> *Ensure that there are no other workflows with the name __HTML to PDF__ resident within the [Workflow](https://workflow.is/)  app or you may encounter an issue.*
@@ -146,7 +146,7 @@ After completing each prompt:
 
 **STEP 5**
 
-The **[Impressive PDFs Drafts Action](https://drafts4-actions.agiletortoise.com/a/1a1)** will now ***automatically*** pass the document content to the **[HTML to PDF](https://workflow.is/workflows/35d87231e09f4a6f9d11bdca0a2510b7)** workflow to create the PDF.
+The **[Impressive PDFs Drafts Action](https://drafts4-actions.agiletortoise.com/a/1a2)** will now ***automatically*** pass the document content to the **[HTML to PDF](https://workflow.is/workflows/35d87231e09f4a6f9d11bdca0a2510b7)** workflow to create the PDF.
 
 ![]({{site.baseurl}}/images/2015-11-13-workflow.png)
 

@@ -10,7 +10,7 @@ items:
         class: btn-warning
         icon: fa-rss
         name: Blog Post
-      - href: 'https://drafts4-actions.agiletortoise.com/a/1a1'
+      - href: 'https://drafts4-actions.agiletortoise.com/a/1a2'
         class: btn-default
         icon: fa-external-link
         name: Drafts Action
