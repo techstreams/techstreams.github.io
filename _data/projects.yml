@@ -1,5 +1,33 @@
 title: Tech-Streams Project Timeline
 items:
+  - tl_title: Google Slides With Drafts
+    tl_badge: warning
+    tl_icon: fa-pencil
+    tl_date: 2015-12-07
+    tl_content: <p><a href="http://agiletortoise.com/drafts/" target="__blank">Drafts Action</a> for creating <a href="https://www.google.com/slides/about/" target="_blank">Google Slides</a> on iOS using <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a>.</p>
+    buttons:
+      - href: 'http://techstreams.github.io/2015/12/07/create-google-slides-with-ios-automation/'
+        class: btn-warning
+        icon: fa-rss
+        name: Blog Post
+      - href: 'https://drafts4-actions.agiletortoise.com/a/1b2'
+        class: btn-default
+        icon: fa-external-link
+        name: Drafts Action
+  - tl_title: Google Slides With Workflow
+    tl_badge: danger
+    tl_icon: fa-refresh
+    tl_date: 2015-12-07
+    tl_content: <p><a href="https://workflow.is/" target="__blank">Workflow</a> app workflow for creating <a href="https://www.google.com/slides/about/" target="_blank">Google Slides</a> on iOS using <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a>.</p>
+    buttons:
+      - href: 'http://techstreams.github.io/2015/12/07/create-google-slides-with-ios-automation/'
+        class: btn-warning
+        icon: fa-rss
+        name: Blog Post
+      - href: 'https://workflow.is/workflows/74367f2c5b95450b835810254a2f8754'
+        class: btn-default
+        icon: fa-external-link
+        name: Workflow
   - tl_title: Impressive PDFs Drafts Action and Workflow
     tl_badge: danger
     tl_icon: fa-refresh
