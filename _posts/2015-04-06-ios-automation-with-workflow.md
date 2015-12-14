@@ -28,7 +28,7 @@ Workflows are easy to create with a simple *drag-and-drop* interface and have a 
 For example, use the **[Workflow](https://workflow.is/)** app to:
 
 * Backup photos to [Dropbox](https://www.dropbox.com) with a simple tap
-* Access the next couple of meetings scheduled in your calendar and create [markdown](http://daringfireball.net/projects/markdown/) formatted meeting note templates in [Evernote](https://evernote.com)
+* Access the next couple of meetings scheduled in your calendar and create [markdown](https://daringfireball.net/projects/markdown/) formatted meeting note templates in [Evernote](https://evernote.com)
 * Grab the last five images from your photo gallery, make an animated GIF and text it to a friend
 * Get your current and destination locations, access maps and text others about your approximate arrival time
 * Speed dial a phone number

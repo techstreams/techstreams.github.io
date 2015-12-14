@@ -4,9 +4,9 @@ title: Create Google Slides With iOS Automation
 tags: [drafts, workflow, markdown, google-slides]
 ---
 
-In the [last post](http://techstreams.github.io/2015/12/02/mind-maps-to-google-slides/) I describe how I create ***[Google Slides](https://www.google.com/slides/about/)*** with one of my favorite [mind mapping](https://en.wikipedia.org/wiki/Mind_map) apps.   In this post, I share two other methods I use to automate presentation creation from my plain text ***[markdown](http://daringfireball.net/projects/markdown/)*** notes.
+In the [last post](https://techstreams.github.io/2015/12/02/mind-maps-to-google-slides/) I describe how I create ***[Google Slides](https://www.google.com/slides/about/)*** with one of my favorite [mind mapping](https://en.wikipedia.org/wiki/Mind_map) apps.   In this post, I share two other methods I use to automate presentation creation from my plain text ***[markdown](https://daringfireball.net/projects/markdown/)*** notes.
 
-*  **[Drafts](http://agiletortoise.com/drafts/)** &nbsp; <i class="fa fa-plus"></i> &nbsp;  **[makeSlides](http://toketaware.com/makeslides/)** &nbsp;  <i class="fa fa-arrow-right"></i>&nbsp;   **[Google Slides](https://www.google.com/slides/about/)**
+*  **[Drafts](https://agiletortoise.com/drafts/)** &nbsp; <i class="fa fa-plus"></i> &nbsp;  **[makeSlides](http://toketaware.com/makeslides/)** &nbsp;  <i class="fa fa-arrow-right"></i>&nbsp;   **[Google Slides](https://www.google.com/slides/about/)**
 
 * **[Workflow](https://workflow.is/)** &nbsp;  <i class="fa fa-plus"></i> &nbsp;  **[makeSlides](http://toketaware.com/makeslides/)** &nbsp;  <i class="fa fa-arrow-right"></i> &nbsp;  **[Google Slides](https://www.google.com/slides/about/)**
 
@@ -17,11 +17,11 @@ In the [last post](http://techstreams.github.io/2015/12/02/mind-maps-to-google-s
 
 The core of my plain text presentation workflow is **[makeSlides](http://toketaware.com/makeslides/)** which can be *[installed](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8)* from the App Store.
 
-> *makeSlides will convert [Markdown](http://daringfireball.net/projects/markdown/), [OPML](http://en.wikipedia.org/wiki/OPML) and Plain Text files into Microsoft PowerPoint format files*
+> *makeSlides will convert [Markdown](https://daringfireball.net/projects/markdown/), [OPML](https://en.wikipedia.org/wiki/OPML) and Plain Text files into Microsoft PowerPoint format files*
 
-I use *[markdown](http://daringfireball.net/projects/markdown/)* ... so just need to follow a few simple **[makeSlides](http://toketaware.com/makeslides/)** rules when creating my presentation content.
+I use *[markdown](https://daringfireball.net/projects/markdown/)* ... so just need to follow a few simple **[makeSlides](http://toketaware.com/makeslides/)** rules when creating my presentation content.
 
-<i class="fa fa-hand-o-right"></i> *For an introductory markdown tutorial, see [Simplify Writing with Markdown](http://techstreams.github.io/2015/09/21/simplify-writing-with-markdown/).*
+<i class="fa fa-hand-o-right"></i> *For an introductory markdown tutorial, see [Simplify Writing with Markdown](https://techstreams.github.io/2015/09/21/simplify-writing-with-markdown/).*
 
 ***makeSlides Markdown Rules:***
 
@@ -56,7 +56,7 @@ Here's a simple markdown example:
 
 <br>
 
-Once my markdown content has been created in **[Drafts](http://agiletortoise.com/drafts/)** or **[Workflow](https://workflow.is/)** *(see below)*, the **[makeSlides](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8)** app is called and ***automatically*** creates a PowerPoint *.pptx* presentation with the passed markdown content.   
+Once my markdown content has been created in **[Drafts](https://agiletortoise.com/drafts/)** or **[Workflow](https://workflow.is/)** *(see below)*, the **[makeSlides](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8)** app is called and ***automatically*** creates a PowerPoint *.pptx* presentation with the passed markdown content.   
 
 Here's how to ***easily*** save and convert the PowerPoint *.pptx* presentation to **[Google Slides](https://www.google.com/slides/about/)**.
 
@@ -85,7 +85,7 @@ Here's how to ***easily*** save and convert the PowerPoint *.pptx* presentation 
 
 ### How To Create Google Slides
 
-> ... *with [Drafts](http://agiletortoise.com/drafts/) and [makeSlides](http://toketaware.com/makeslides/)*
+> ... *with [Drafts](https://agiletortoise.com/drafts/) and [makeSlides](http://toketaware.com/makeslides/)*
 
 
 <br>
@@ -104,7 +104,7 @@ Install the following apps on your iOS mobile device:
 * [Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) *(& [Google Drive](https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8) )*
 
 
-<i class="fa fa-hand-o-right"></i> *For more on __Drafts__ see [iOS Automation with Drafts](http://techstreams.github.io/2015/09/03/ios-automation-with-drafts/).*
+<i class="fa fa-hand-o-right"></i> *For more on __Drafts__ see [iOS Automation with Drafts](https://techstreams.github.io/2015/09/03/ios-automation-with-drafts/).*
 
 
 `~~~`
@@ -166,7 +166,7 @@ Install the following apps on your iOS mobile device:
 * [makeSlides](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8)
 * [Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) *(& [Google Drive](https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8) )*
 
-<i class="fa fa-hand-o-right"></i> *For more on __Workflow__ see [iOS Automation with Workflow](http://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
+<i class="fa fa-hand-o-right"></i> *For more on __Workflow__ see [iOS Automation with Workflow](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
 
 `~~~`
 

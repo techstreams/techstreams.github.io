@@ -37,9 +37,9 @@ In addition to the original version, there are several markdown variations.  Exa
 I use markdown to:
 
 * Write all posts for this blog
-* Create, send and reuse emails from [Google Docs](https://www.google.com/docs/about/) with my [TSMarkMail Google Doc Add-on]({{ site.baseurl }}/2015/03/27/tsmarkmail-overview/)
-* Initiate many of my [Drafts app workflows]({{ site.baseurl}}/2015/09/03/ios-automation-with-drafts/)
-* Initiate many of my [Workflow app workflows]({{ site.baseurl}}/2015/04/06/ios-automation-with-workflow/)
+* Create, send and reuse emails from [Google Docs](https://www.google.com/docs/about/) with my [TSMarkMail Google Doc Add-on](https://techstreams.github.io/2015/03/27/tsmarkmail-overview/)
+* Initiate many of my [Drafts app workflows](https://techstreams.github.io/2015/09/03/ios-automation-with-drafts/)
+* Initiate many of my [Workflow app workflows](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/)
 * Write documentation for my [Github projects](https://github.com/techstreams)
 * Write ebooks and documentation with [Gitbook](https://www.gitbook.com/)
 
