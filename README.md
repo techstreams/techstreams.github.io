@@ -1,9 +1,9 @@
-This is the personal blog of [Laura Taylor](https://github.com/techstreams) host by [Github Pages](https://pages.github.com/). You can view it at [http://techstreams.github.io](http://techstreams.github.io).
+This is the personal blog of [Laura Taylor](https://github.com/techstreams) host by [Github Pages](https://pages.github.com/). You can view it at [https://techstreams.github.io](https://techstreams.github.io).
 
 # Credits
 
 * [Mark Otto](https://github.com/mdo) for the [Lanyon theme](https://github.com/poole/lanyon)
-* [Dave Gandy](https://twitter.com/davegandy) for the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons
+* [Dave Gandy](https://twitter.com/davegandy) for the [Font Awesome](https://fortawesome.github.io/Font-Awesome/) icons
 
 
 # License
