@@ -17,9 +17,9 @@ I'm Laura Taylor and this is where I express my personal thoughts and ideas on s
 
 This blog is:
 
-* Built with **[Jekyll](http://jekyllrb.com/)** *(using the __[Lanyon](http://lanyon.getpoole.com/)__ theme by __[Mark Otto](https://twitter.com/mdo))__*
+* Built with **[Jekyll](https://jekyllrb.com/)** *(using the __[Lanyon](http://lanyon.getpoole.com/)__ theme by __[Mark Otto](https://twitter.com/mdo))__*
 * Hosted on **[Github Pages](https://pages.github.com/)**
-* Using **[Font Awesome](http://fortawesome.github.io/Font-Awesome/)** icons by ***[Dave Gandy](https://twitter.com/davegandy)***
+* Using **[Font Awesome](https://fortawesome.github.io/Font-Awesome/)** icons by ***[Dave Gandy](https://twitter.com/davegandy)***
 
 
 
