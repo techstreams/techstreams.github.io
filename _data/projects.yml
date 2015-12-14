@@ -4,9 +4,9 @@ items:
     tl_badge: warning
     tl_icon: fa-pencil
     tl_date: 2015-12-07
-    tl_content: <p><a href="http://agiletortoise.com/drafts/" target="__blank">Drafts Action</a> for creating <a href="https://www.google.com/slides/about/" target="_blank">Google Slides</a> on iOS using <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a>.</p>
+    tl_content: <p><a href="https://agiletortoise.com/drafts/" target="__blank">Drafts Action</a> for creating <a href="https://www.google.com/slides/about/" target="_blank">Google Slides</a> on iOS using <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a>.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/12/07/create-google-slides-with-ios-automation/'
+      - href: 'https://techstreams.github.io/2015/12/07/create-google-slides-with-ios-automation/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
@@ -20,7 +20,7 @@ items:
     tl_date: 2015-12-07
     tl_content: <p><a href="https://workflow.is/" target="__blank">Workflow</a> app workflow for creating <a href="https://www.google.com/slides/about/" target="_blank">Google Slides</a> on iOS using <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a>.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/12/07/create-google-slides-with-ios-automation/'
+      - href: 'https://techstreams.github.io/2015/12/07/create-google-slides-with-ios-automation/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
@@ -32,9 +32,9 @@ items:
     tl_badge: danger
     tl_icon: fa-refresh
     tl_date: 2015-11-13
-    tl_content: <p>Collaborative <a href="http://agiletortoise.com/drafts/" target="__blank">Drafts Action</a> and <a href="https://workflow.is/" target="__blank">Workflow</a> app workflow for creating <strong>Impressive PDFs</strong> on iOS using <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a> and <a href="https://www.google.com/fonts#AboutPlace:about" target="__blank">Google Fonts</a>.</p>
+    tl_content: <p>Collaborative <a href="https://agiletortoise.com/drafts/" target="__blank">Drafts Action</a> and <a href="https://workflow.is/" target="__blank">Workflow</a> app workflow for creating <strong>Impressive PDFs</strong> on iOS using <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a> and <a href="https://www.google.com/fonts#AboutPlace:about" target="__blank">Google Fonts</a>.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/11/13/create-impressive-pdfs-with-ios-automation/'
+      - href: 'https://techstreams.github.io/2015/11/13/create-impressive-pdfs-with-ios-automation/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
@@ -52,7 +52,7 @@ items:
     tl_date: 2015-11-02
     tl_content: <p>iOS Photo workflows for the <a href="https://workflow.is/" target="__blank">Workflow</a> app.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/11/02/photo-workflows/'
+      - href: 'https://techstreams.github.io/2015/11/02/photo-workflows/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
@@ -60,13 +60,13 @@ items:
     tl_badge: warning
     tl_icon: fa-pencil
     tl_date: 2015-10-01
-    tl_content: <p><a href="http://agiletortoise.com/drafts/" target="__blank">Drafts Action</a> for creating <a href="https://www.google.com/docs/about/" target="__blank">Google Docs</a> from iOS with <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a> and <a href="https://www.google.com/fonts#AboutPlace:about" target="__blank">Google Fonts</a>.</p>
+    tl_content: <p><a href="https://agiletortoise.com/drafts/" target="__blank">Drafts Action</a> for creating <a href="https://www.google.com/docs/about/" target="__blank">Google Docs</a> from iOS with <a href="https://daringfireball.net/projects/markdown/" target="__blank">Markdown</a> and <a href="https://www.google.com/fonts#AboutPlace:about" target="__blank">Google Fonts</a>.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/10/01/create-impressive-google-docs-on-the-go/'
+      - href: 'https://techstreams.github.io/2015/10/01/create-impressive-google-docs-on-the-go/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
-      - href: 'http://drafts4-actions.agiletortoise.com/a/19v'
+      - href: 'https://drafts4-actions.agiletortoise.com/a/19v'
         class: btn-default
         icon: fa-external-link
         name: Drafts Action
@@ -76,7 +76,7 @@ items:
     tl_date: 2015-05-15
     tl_content: <p>Confirm scheduled meetings from iOS with <strong>Calendar Confirmations </strong><a href="https://workflow.is/" target="__blank">Workflow</a>.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/05/01/calendar-confirmations-workflow/'
+      - href: 'https://techstreams.github.io/2015/05/01/calendar-confirmations-workflow/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
@@ -96,13 +96,13 @@ items:
     tl_badge: success
     tl_icon: fa-file-text
     tl_date: 2014-10-17
-    tl_content: <p>TSFormTranslator is a demonstration <a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> which enables a <em><a href="https://support.google.com/docs/topic/6063584" target="_blank">Google Form</a> owner</em> to translate a form <em>created in English</em> into <strong><em>one of 79 different languages</em></strong> using <a href="https://translate.google.com/" target="_blank">Google Translate.</a></p><p>A nicely formatted email containing the submitted content will be sent to the <em>form owner</em> in both the <strong><em>translation language</em></strong> and <strong><em>English translation</em></strong> each time a <em>form user</em> submits to the form.</p><br><p><em>For a list of supported languages, see the <a href="http://techstreams.github.io/TSFormTranslator#langs" target="_blank">TSFormTranslator documentation</a>.</em></p>
+    tl_content: <p>TSFormTranslator is a demonstration <a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> which enables a <em><a href="https://support.google.com/docs/topic/6063584" target="_blank">Google Form</a> owner</em> to translate a form <em>created in English</em> into <strong><em>one of 79 different languages</em></strong> using <a href="https://translate.google.com/" target="_blank">Google Translate.</a></p><p>A nicely formatted email containing the submitted content will be sent to the <em>form owner</em> in both the <strong><em>translation language</em></strong> and <strong><em>English translation</em></strong> each time a <em>form user</em> submits to the form.</p><br><p><em>For a list of supported languages, see the <a href="https://techstreams.github.io/TSFormTranslator#langs" target="_blank">TSFormTranslator documentation</a>.</em></p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/04/14/tsformtranslator-overview/'
+      - href: 'https://techstreams.github.io/2015/04/14/tsformtranslator-overview/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
-      - href: 'http://techstreams.github.io/TSFormTranslator'
+      - href: 'https://techstreams.github.io/TSFormTranslator'
         class: btn-primary
         icon: fa-book
         name: Docs
@@ -116,7 +116,7 @@ items:
     tl_date: 2014-09-26
     tl_content: <p>Demonstration <a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> which translates <em>Cambodian Khmer</em> to <em>English</em> through a <a href="https://support.google.com/docs/topic/6063584" target="_blank">Google Form</a> using <a href="https://translate.google.com/" target="_blank">Google Translate</a>. An email containing both the <em>Khmer</em> text and <em>English</em> translation is automatically sent to the form owner each time a user submits to the form.</p>
     buttons:
-      - href: 'http://techstreams.github.io/TSTranslateKhmer'
+      - href: 'https://techstreams.github.io/TSTranslateKhmer'
         class: btn-primary
         icon: fa-book
         name: Docs
@@ -130,11 +130,11 @@ items:
     tl_date: 2014-09-08
     tl_content: <p><a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> for <a href="https://support.google.com/docs/topic/6063584" target="_blank">Google Forms</a> which automatically emails the form owner each time a user submits a response to the form. Emails are nicely formatted and contain the contents of the form submission.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/04/09/tscontactform-overview/'
+      - href: 'https://techstreams.github.io/2015/04/09/tscontactform-overview/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
-      - href: 'http://techstreams.github.io/TSContactForm'
+      - href: 'https://techstreams.github.io/TSContactForm'
         class: btn-primary
         icon: fa-book
         name: Docs
@@ -146,9 +146,9 @@ items:
     tl_badge: primary
     tl_icon: fa-file-text
     tl_date: 2014-08-09
-    tl_content: <p><a href="https://support.google.com/docs/answer/3641454" target="_blank">Google Drive Add-on for Google Docs</a> which provides an easy way to create email with <a href="http://daringfireball.net/projects/markdown/" target="_blank">markdown</a> and send it directly from a Google Document.</p>
+    tl_content: <p><a href="https://support.google.com/docs/answer/3641454" target="_blank">Google Drive Add-on for Google Docs</a> which provides an easy way to create email with <a href="https://daringfireball.net/projects/markdown/" target="_blank">markdown</a> and send it directly from a Google Document.</p>
     buttons:
-      - href: 'http://techstreams.github.io/2015/03/27/tsmarkmail-overview/'
+      - href: 'https://techstreams.github.io/2015/03/27/tsmarkmail-overview/'
         class: btn-warning
         icon: fa-rss
         name: Blog Post
@@ -164,7 +164,7 @@ items:
     tl_badge: ''
     tl_icon: fa-bullseye
     tl_date: 2012-09-10
-    tl_content: <p>A <a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> web publishing tool for <a href="http://drive.google.com" target="_blank">Google Drive</a>. Includes a built-in editor for <a href="http://daringfireball.net/projects/markdown/" target="_blank">markdown</a> content upload, creation and edit along with an easy interface for hosting, configuring and deploying that content to the web.</p><br><p><em>Semi-Finalist in the <a href="https://www.google.com/events/gcdc2013/finalists2012.html" target="_blank">2012 Google Apps Developer Challenge</a>.</em></p>
+    tl_content: <p>A <a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> web publishing tool for <a href="https://drive.google.com" target="_blank">Google Drive</a>. Includes a built-in editor for <a href="https://daringfireball.net/projects/markdown/" target="_blank">markdown</a> content upload, creation and edit along with an easy interface for hosting, configuring and deploying that content to the web.</p><br><p><em>Semi-Finalist in the <strong>2012 Google Apps Developer Challenge</strong>.</em></p>
     buttons:
       - href: 'https://plus.google.com/100091091550629052565/posts'
         class: btn-warning
