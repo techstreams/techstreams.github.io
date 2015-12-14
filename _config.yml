@@ -19,7 +19,7 @@ exclude:          ["LICENSE.md", "README.md", "_config.yml", ".gitignore", ".edi
 # Author Configuration
 author:
   name:           'Laura Taylor'
-  url:            http://techstreams.github.io
+  url:            https://techstreams.github.io
 
 # Google Analytics Configuration - site specific
 google_analytics:
