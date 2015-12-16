@@ -1,5 +1,15 @@
 title: Tech-Streams Project Timeline
 items:
+  - tl_title: iOS Automation with Google Apps Script and Workflow
+    tl_badge: ''
+    tl_icon: fa-bullseye
+    tl_date: 2015-12-16
+    tl_content: <p><a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> examples for iOS Automation with the <a href="https://workflow.is/" target="__blank">Workflow</a> app.</p>
+    buttons:
+      - href: 'https://techstreams.github.io/2015/12/16/ios-automation-with-workflow-and-google-apps-script/'
+        class: btn-warning
+        icon: fa-rss
+        name: Blog Post
   - tl_title: Google Slides With Drafts
     tl_badge: warning
     tl_icon: fa-pencil
