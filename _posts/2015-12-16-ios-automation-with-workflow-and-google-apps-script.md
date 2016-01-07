@@ -18,7 +18,7 @@ tags: [google-apps-script, workflow, markdown]
 
 **Let's explore _three_ interesting ways** to integrate the **[Workflow](https://workflow.is/)** app with **[Google Apps Script](https://www.google.com/script/start/)**.
 
-<i class="fa fa-hand-o-right"></i> *For more on the __Workflow__ app see [iOS Automation with Workflow](http://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
+<i class="fa fa-hand-o-right"></i> *For more on the __Workflow__ app see [iOS Automation with Workflow](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
 
 <i class="fa fa-hand-o-right"></i> *See [Creating a standalone script](https://developers.google.com/apps-script/guides/standalone#creating_a_standalone_script) and  [Deploying a script as a web app](https://developers.google.com/apps-script/guides/web#deploying_a_script_as_a_web_app) for more on deploying these [Google Apps Script](https://www.google.com/script/start/) examples in your environment.*
 

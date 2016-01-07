@@ -1,5 +1,15 @@
 title: Tech-Streams Project Timeline
 items:
+  - tl_title: Translation Automation with Google Apps Script and Workflow
+    tl_badge: ''
+    tl_icon: fa-bullseye
+    tl_date: 2016-01-07
+    tl_content: <p><a href="https://www.google.com/script/start/" target="_blank">Google Apps Script</a> translation example for iOS Automation with the <a href="https://workflow.is/" target="__blank">Workflow</a> app.</p>
+    buttons:
+      - href: 'https://techstreams.github.io/2016/01/07/translation-automation-with-workflow-and-google-apps-script//'
+        class: btn-warning
+        icon: fa-rss
+        name: Blog Post
   - tl_title: iOS Automation with Google Apps Script and Workflow
     tl_badge: ''
     tl_icon: fa-bullseye
