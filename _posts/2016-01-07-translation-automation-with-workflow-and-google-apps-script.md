@@ -10,7 +10,7 @@ Here's another engaging integration utilizing *[Google Translate](https://transl
 
 <i class="fa fa-hand-o-right"></i> *For more on the __Workflow__ app see [iOS Automation with Workflow](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
 
-<i class="fa fa-hand-o-right"></i> *For more on using [localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) with a [Google Form](https://www.google.com/forms/about/) see [TSFormTranslator](https://techstreams.github.io.2015-04-14-tsformtranslator-overview/).*
+<i class="fa fa-hand-o-right"></i> *For more on using [localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) with a [Google Form](https://www.google.com/forms/about/) see [TSFormTranslator](https://techstreams.github.io/2015/04/14/tsformtranslator-overview/).*
 
 ---
 
