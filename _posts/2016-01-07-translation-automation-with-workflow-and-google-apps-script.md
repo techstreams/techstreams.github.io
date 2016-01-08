@@ -56,9 +56,9 @@ With the integration of **[Google Apps Script](https://www.google.com/script/sta
 > 
 > * *Localized rich text content system for individuals or groups*
 >
->  <i class="fa fa-exclamation-circle"></i> *Be sure to replace the __Google Apps Script URLs__ found in the following example workflow with your own.*
+>  <i class="fa fa-exclamation-circle"></i> *__[Be sure to replace]({{site.baseurl}}/howto/replace-workflow-urls/)__ the __Google Apps Script URLs__ found in the following example workflow with your own.*
 >
-> <i class="fa fa-exclamation-circle"></i> *The __second Google Apps Script URL__ in the following example workflow requires two parameters to be sent back to the Google Apps Script.  __Take care__ when replacing with your own URL.*
+> <i class="fa fa-exclamation-circle"></i> *The __second Google Apps Script URL__ in the following example workflow __requires two parameters__ to be sent back to the Google Apps Script.  __[Take care when replacing]({{site.baseurl}}/howto/replace-workflow-urls/)__ with your own URL.*
 >
 > <i class="fa fa-exclamation-circle"></i> *Some inter-language translations may not be supported.*
 >
