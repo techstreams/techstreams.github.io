@@ -8,9 +8,9 @@ As described in the *[previous post](https://techstreams.github.io/2015/12/16/io
 
 Here's another engaging integration utilizing *[Google Translate](https://translate.google.com/)* to automatically generate *[localized](https://en.wikipedia.org/wiki/Internationalization_and_localization)* content to send as email or share as a PDF from an iOS device.
 
-<i class="fa fa-hand-o-right"></i> *For more on the __Workflow__ app see [iOS Automation with Workflow](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
+<i class="fa fa-hand-o-right"></i> *For more on the __Workflow__ app see [iOS Automation with Workflow](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).  You can download it on the App Store __[here](https://itunes.apple.com/app/workflow-powerful-automation/id915249334)__.*
 
-<i class="fa fa-hand-o-right"></i> *For more on using [localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) with a [Google Form](https://www.google.com/forms/about/) see [TSFormTranslator](https://techstreams.github.io/2015/04/14/tsformtranslator-overview/).*
+<i class="fa fa-hand-o-right"></i> *If you are interested in using [localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) with a [Google Form](https://www.google.com/forms/about/) see [TSFormTranslator](https://techstreams.github.io/2015/04/14/tsformtranslator-overview/).*
 
 ---
 
@@ -33,7 +33,11 @@ Here's a simple *standalone* workflow which ...
 
 | Workflow |
 | :--------: | 
-| **[<i class="fa fa-refresh"></i> Text Translator](https://workflow.is/workflows/3f43d9bc1dca43a1a4b9115a96b9a0f2)** *(Click for install page)*  |
+| **[<i class="fa fa-refresh"></i> Text Translator](https://workflow.is/workflows/3f43d9bc1dca43a1a4b9115a96b9a0f2)** *(Click for workflow install page)*  |
+
+<br>
+
+![Workflows]({{site.baseurl}}/images/2016-01-07-translate-workflow.png)
 
 <br>
 
@@ -67,24 +71,33 @@ With the integration of **[Google Apps Script](https://www.google.com/script/sta
 
 | Workflow | Google Apps Script |
 | :--------: | :---------------: |
-| **[<i class="fa fa-refresh"></i> Custom Translator](https://workflow.is/workflows/ad520fad30484a3fa8d63adbf3337d9c)** *(Click for install page)* | **[Custom Translator Script](https://script.google.com/d/1lRVhoir1brlYnXfW70fR6inCwNBr_SjBjmHnl3cmtSansD051lkGmWPI/edit?usp=sharing)** *(Click to make a copy of script)* |
+| **[<i class="fa fa-refresh"></i> Custom Translator](https://workflow.is/workflows/ad520fad30484a3fa8d63adbf3337d9c)** *(Click for workflow install page)* | **[Custom Translator Script](https://script.google.com/d/1lRVhoir1brlYnXfW70fR6inCwNBr_SjBjmHnl3cmtSansD051lkGmWPI/edit?usp=sharing)** *(Click to make a copy of the script in your Google account)* |
 
 <br>
 
 
 <i class="fa fa-hand-o-right"></i> *See [Deploying a script as a web app](https://developers.google.com/apps-script/guides/web#deploying_a_script_as_a_web_app) for more on deploying this [Google Apps Script](https://www.google.com/script/start/) example in your environment.*
 
-<br>
-
 ---
 
-Here's the ***Google Apps Script code*** if you want to install the script manually.
+<br>
+
+Here's the ***Google Apps Script code*** if you want to **[install the script](https://developers.google.com/apps-script/guides/standalone#creating_a_standalone_script)** manually.
 
 {% gist techstreams/c99f4f0c88f9c62eadee %}
 
 <br>
 
 <i class="fa fa-hand-o-right"></i> *__Add content__ to the Google Apps Script project as `html` files.  See the __[Custom Translator Script](https://script.google.com/d/1lRVhoir1brlYnXfW70fR6inCwNBr_SjBjmHnl3cmtSansD051lkGmWPI/edit?usp=sharing)__ for examples.*
+
+<br>
+*Here's simple content which includes html:*
+
+```
+Thank you for your recent purchase.
+<br><br>
+Please contact our customer service department for further assistance.
+```
 
 
 
