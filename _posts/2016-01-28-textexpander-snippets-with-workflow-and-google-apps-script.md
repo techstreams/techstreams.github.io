@@ -58,7 +58,7 @@ Following is a **[Google Spreadsheet](https://www.google.com/sheets/about/)** wi
 
 **TE Snippet Server**
 
-> A [Google Apps Script](https://www.google.com/script/start/) which shares [TextExpander](https://smilesoftware.com/textexpander-ios) snippets from sheets in a [Google Spreadsheet](https://www.google.com/sheets/about/).  
+> A [Google Apps Script](https://www.google.com/script/start/) which shares [TextExpander](https://smilesoftware.com/textexpander-ios) snippets from a [Google Spreadsheet](https://www.google.com/sheets/about/).  
 >
 > * Each sheet represents a snippet group 
 > 
@@ -68,9 +68,9 @@ Following is a **[Google Spreadsheet](https://www.google.com/sheets/about/)** wi
 >
 > `---`
 >
-> <i class="fa fa-exclamation-circle"></i> The ***Group Name*** in which to add the shared snippets ***must already exist*** in [TextExpander](https://smilesoftware.com/textexpander-ios) and is ***case sensitive***.  
+> <i class="fa fa-exclamation-circle"></i> The ***Group Name*** in which to add the shared snippets ***must already exist*** in [TextExpander](https://smilesoftware.com/textexpander-ios) before running the workflow.  
 >
-> <i class="fa fa-exclamation-circle"></i> When prompted for the snippet ***Group Name*** in the running workflow, ***do not include leading or trailing spaces***.  *The workflow will fail on an invalid Group Name.*
+> <i class="fa fa-exclamation-circle"></i> When prompted for the snippet ***Group Name*** in the running workflow, ***do not include leading or trailing spaces***. The name is also ***case sensitive***. *The workflow will fail on an invalid Group Name.*
 >
 
 <br>
