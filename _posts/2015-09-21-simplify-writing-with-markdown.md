@@ -80,7 +80,7 @@ In the interest of time, I'll only be highlighting markdown elements I use most 
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_paragraph.md %}
+<script src="https://gist.github.com/techstreams/b25141e6d38fdda84e57.js"></script>
 
 <br>
 
@@ -112,7 +112,7 @@ In the interest of time, I'll only be highlighting markdown elements I use most 
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_text_emphasis.md %}
+<script src="https://gist.github.com/techstreams/b161534cce32a9b5c4b1.js"></script>
 
 <br>
 
@@ -132,7 +132,7 @@ In the interest of time, I'll only be highlighting markdown elements I use most 
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_headings.md %}
+<script src="https://gist.github.com/techstreams/f7897c41a5c33987ea42.js"></script>
 
 <br>
 
@@ -150,7 +150,7 @@ In the interest of time, I'll only be highlighting markdown elements I use most 
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_blockquote.md %}
+<script src="https://gist.github.com/techstreams/4eb28dad88af9b2012bc.js"></script>
 
 <br>
 
@@ -182,7 +182,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_list.md %}
+<script src="https://gist.github.com/techstreams/da72b55c61d5af35ae4b.js"></script>
 
 <br>
 
@@ -201,7 +201,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_horizontal_rule.md %}
+<script src="https://gist.github.com/techstreams/2819b14b50f1e51ec1c0.js"></script>
 
 
 <br>
@@ -222,7 +222,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_link.md %}
+<script src="https://gist.github.com/techstreams/4a6b5c2dbe19e12e2301.js"></script>
 
 <br>
 
@@ -240,7 +240,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_image.md %}
+<script src="https://gist.github.com/techstreams/98f07035a9e948942191.js"></script>
 
 <br>
 
@@ -262,7 +262,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_table.md %}
+<script src="https://gist.github.com/techstreams/810c74af1114118cddd4.js"></script>
 
 
 <br>
@@ -281,7 +281,7 @@ Markdown supplies both ***Ordered*** and ***Unordered*** lists.
 
 <br>
 
-{% gist techstreams/2240e7de0840bc8ec218 md_code.md %}
+<script src="https://gist.github.com/techstreams/7cfd9d9ff5baa64c8ff8.js"></script>
 
 
 
