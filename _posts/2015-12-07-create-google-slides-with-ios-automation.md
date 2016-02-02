@@ -23,7 +23,7 @@ I use *[markdown](https://daringfireball.net/projects/markdown/)* ... so just ne
 
 <i class="fa fa-hand-o-right"></i> *For an introductory markdown tutorial, see [Simplify Writing with Markdown](https://techstreams.github.io/2015/09/21/simplify-writing-with-markdown/).*
 
-**makeSlides Markdown Rules:**
+***makeSlides Markdown Rules:***
 
 > * ***Level 1*** text will become a ***Title Slide***
 > * ***Level 2*** text will become the title of a ***Content Slide***
@@ -35,9 +35,22 @@ I use *[markdown](https://daringfireball.net/projects/markdown/)* ... so just ne
 
 Here's a simple markdown example:
 
-<script src="https://gist.github.com/techstreams/9f7b1fdcc7db122ddcc3.js"></script>
+```
+# Google Slides With iOS Automation
 
-<br>
+## Method 1
+
+* Drafts
+* markdown
+* makeSlides
+
+## Method 2
+
+* Workflow
+* markdown
+* makeSlides
+
+```
 
 <i class="fa fa-exclamation-circle"></i> ***In addition to [makeSlides](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8), you'll need to have the [Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) app installed.***
 
@@ -56,7 +69,7 @@ Here's how to ***easily*** save and convert the PowerPoint *.pptx* presentation 
 
 1) From **[makeSlides](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8)**, tap the **Share** button in the top right corner.
 
-2) Locate and tap **Copy to Slides**.  *This will automatically open the [Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) app.*  Tap **Save to Drive**.
+2) Locate and tap **Copy to Slides**.  *This will automatically open the [Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) app.*  Tap **__Save to Drive__**.
 
 3) Locate and open the newly created PowerPoint *.pptx* presentation in the [Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) app.
 

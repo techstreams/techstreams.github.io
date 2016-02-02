@@ -64,7 +64,29 @@ Enter document content into **Drafts** using markdown.
 
 Looking for an example?  Try this markdown:
 
-<script src="https://gist.github.com/techstreams/0478a2418b63ebd2a771.js"></script>
+```
+# Test PDF
+
+---
+
+It's easy to create ***Impressive PDFs*** with:
+
+* Drafts
+* Markdown
+* Google Fonts
+* Workflow
+
+---
+
+### Try A Table
+
+| Column 1 | Column 2 |
+| :------: | :------: |
+| One      | Two      |
+| Three    | Four     |
+
+
+```
 
 <i class="fa fa-hand-o-right"></i> *For an introductory markdown tutorial, see [Simplify Writing with Markdown](https://techstreams.github.io/2015/09/21/simplify-writing-with-markdown/).*
 

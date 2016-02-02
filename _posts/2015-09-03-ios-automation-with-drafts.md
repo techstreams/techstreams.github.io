@@ -7,16 +7,11 @@ tags: [workflow, drafts]
 **[Drafts](https://agiletortoise.com/drafts/)** is one of my favorite iOS apps for many of my ***[workflows](https://www.google.com/search?q=define%3Aworkflow)***.  So what is **Drafts** and why do I like it?
 
 According to the **[website](https://agiletortoise.com/drafts/)**:
-
 > *Drafts is a different kind of note taking app. In Drafts, text comes first &ndash; open the app and get a new, blank draft. Get your text down quickly, then act on it with powerful actions.*
 
 As the description indicates, **Drafts** is all about ***the text*** ... writing, capturing, viewing, manipulating and saving ***text***.  _In fact, I wrote this blog post on my iPhone with **Drafts** using a workflow similar to one described by [Matteo Cappadonna](http://www.matteocappadonna.org/) in his blog post [Posting with Drafts, Working Copy and Workflow](http://www.matteocappadonna.org/Posting-with-Drafts,-Working-Copy-and-Workflow/)._ 
 
-<br>
-
 ![Drafts]({{site.baseurl}}/images/2015-09-03-drafts.png)
-
-<br>
 
 The text functionality alone makes **Drafts** a powerful text editor.  But with ***[Actions](https://agiletortoise.zendesk.com/hc/en-us/sections/200579370-Actions)*** & ***[Keyboard Extensions](https://agiletortoise.zendesk.com/hc/en-us/sections/200539204-Enhanced-Keyboard)***, limitless possibilities emerge.  Here are a few:
 

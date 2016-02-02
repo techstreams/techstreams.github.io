@@ -84,17 +84,20 @@ With the integration of **[Google Apps Script](https://www.google.com/script/sta
 
 Here's the ***Google Apps Script code*** if you want to **[install the script](https://developers.google.com/apps-script/guides/standalone#creating_a_standalone_script)** manually.
 
-<script src="https://gist.github.com/techstreams/c99f4f0c88f9c62eadee.js"></script>
+{% gist techstreams/c99f4f0c88f9c62eadee %}
 
 <br>
 
 <i class="fa fa-hand-o-right"></i> *__Add content__ to the Google Apps Script project as `html` files.  See the __[Custom Translator Script](https://script.google.com/d/1lRVhoir1brlYnXfW70fR6inCwNBr_SjBjmHnl3cmtSansD051lkGmWPI/edit?usp=sharing)__ for examples.*
 
+<br>
+*Here's simple content which includes html:*
 
-**Here's a simple example which includes html:**
-
-<script src="https://gist.github.com/techstreams/ab20b3b94818d7a43bde.js"></script>
-
+```
+Thank you for your recent purchase.
+<br><br>
+Please contact our customer service department for further assistance.
+```
 
 
 

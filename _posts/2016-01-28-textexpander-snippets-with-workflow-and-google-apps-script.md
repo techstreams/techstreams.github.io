@@ -31,11 +31,9 @@ Common features include the ability to:
 
 Here's a short video overview:
 
-{::nomarkdown}
 <div class='embed-container'>
 	<iframe src="https://www.youtube.com/embed/KXzWWsGMx_g" frameborder=0 allowfullscreen></iframe>
 </div>
-{:/nomarkdown}
 
 `~~~`
 
@@ -116,7 +114,7 @@ Following is a **[Google Spreadsheet](https://www.google.com/sheets/about/)** wi
 
 Here's the ***Google Apps Script code*** if you want to **[install the script](https://developers.google.com/apps-script/guides/standalone#creating_a_standalone_script)** manually.
 
-<script src="https://gist.github.com/techstreams/92cf9bdbef3f4e97af15.js"></script>
+{% gist techstreams/92cf9bdbef3f4e97af15 %}
 
 
 
