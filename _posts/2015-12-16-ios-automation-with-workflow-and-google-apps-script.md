@@ -39,37 +39,14 @@ tags: [google-apps-script, workflow, markdown]
 <br>
 
 
-***Example Workflow:*** &nbsp; **[<i class="fa fa-refresh"></i> Simple Text Responder](https://workflow.is/workflows/396c0e1228f840c099080e34b079b129)**
+| Workflow |
+| :--------: | 
+| **[<i class="fa fa-refresh"></i> Simple Text Responder](https://workflow.is/workflows/396c0e1228f840c099080e34b079b129)** *(Click for workflow install page)*  |
 
 
 ***Google Apps Script code:***
 
-```javascript
-
-/**
- * Copyright (c), Laura Taylor. (MIT Licensed)
- * https://techstreams.github.io
- */
-
-
-/**
- * Simple Google Apps Script Content Server
- * @returns {string}
- */
-function doGet() {
-  
-  // Comma separated list of responses
-  var content = "Thank you very much," +
-                "See you soon," +
-                "Going to be late," +
-                "Will call later," +
-                "Have a nice day";
-  
-  return ContentService.createTextOutput(content);
-  
-}
-
-```
+<script src="https://gist.github.com/techstreams/ba6e8216cbc8ed1c4008.js"></script>
 
 <br>
 
@@ -93,67 +70,22 @@ function doGet() {
 
 <br>
 
-
-***Example Workflow:*** &nbsp; **[<i class="fa fa-refresh"></i> Markdown Server](https://workflow.is/workflows/2e84625a785744e2bd35e29c02bd7423)**
+| Workflow |
+| :--------: | 
+| **[<i class="fa fa-refresh"></i> Markdown Server](https://workflow.is/workflows/2e84625a785744e2bd35e29c02bd7423)** *(Click for workflow install page)*  |
 
 
 ***Google Apps Script code:***
 
-```javascript
+<script src="https://gist.github.com/techstreams/ed07d47d83cb5649ed59.js"></script>
 
-/**
- * Copyright (c), Laura Taylor. (MIT Licensed)
- * https://techstreams.github.io
- */
+<br>
 
+***Example Markdown:*** 
 
-/**
- * Simple Google Apps Script Content Server
- * @param {string} e - Event object
- * @returns {string}
- */
-function doGet(e) {
-  
-  var content;
-  
-  if (e.parameter.name) {
-    // Get content of selected markdown file
-    content = HtmlService
-                 .createHtmlOutputFromFile(e.parameter.name.trim())
-                 .getContent();
-  } else {
-    // Return a comma separated list of file names
-    content = "Example1," +
-              "Example2";
-  }
-  
-  return ContentService.createTextOutput(content);
-  
-}
+<i class="fa fa-hand-o-right"></i>  *[Add to Google Apps Script](https://developers.google.com/apps-script/managing_projects#managing-files-in-a-project) project as an `html` file.*
 
-
-```
-
-***Example Markdown:*** *([Add to Google Apps Script](https://developers.google.com/apps-script/managing_projects#managing-files-in-a-project) project as an `html` file)*
-
-```
-
-## How to Deploy Google Apps Script for the Workflow App
-
-* **STEP 1:** Create a Google Apps Script Project
-
-* **STEP 2:** Add Script Code
-
-* **STEP 3:** Deploy Google Apps Script
-
-* **STEP 4:** Copy Deployed Script URL for Use in [Workflow](https://workflow.is/) App
-
----
-
-*See [techstreams.github.io](https://techstreams.github.io/2015/12/16/ios-automation-with-workflow-and-google-apps-script/) for more information.*
-
-
-```
+<script src="https://gist.github.com/techstreams/320c77e7b9a6f003fb4a.js"></script>
 
 <br>
 
@@ -174,31 +106,24 @@ function doGet(e) {
 
 <br>
 
-
-***Example Workflow:*** &nbsp; **[<i class="fa fa-refresh"></i> Custom Emailer](https://workflow.is/workflows/cd4209d46a6a42ae901157b4b9699577)**
-
-
-***Google Apps Script code:***  *See code for __MARKDOWN SERVER__ example above.*
+| Workflow |
+| :--------: | 
+| **[<i class="fa fa-refresh"></i> Custom Emailer](https://workflow.is/workflows/cd4209d46a6a42ae901157b4b9699577)** *(Click for workflow install page)*  |
 
 
-***Example Email:*** *([Add to Google Apps Script](https://developers.google.com/apps-script/managing_projects#managing-files-in-a-project) project as an `html` file)*
+***Google Apps Script code:*** 
 
-*Note replacement values surrounded by double brackets  &#123; &#123; &nbsp;  &#125; &#125;.*
+<script src="https://gist.github.com/techstreams/ed07d47d83cb5649ed59.js"></script>
 
-```
+<br>
 
-Hello { { customer name } },
+***Example Email:***
 
-Thank you for your recent purchase. 
+<i class="fa fa-hand-o-right"></i> *[Add to Google Apps Script](https://developers.google.com/apps-script/managing_projects#managing-files-in-a-project) project as an `html` file.*
 
-Please contact our customer service department if you need further assistance.
+<i class="fa fa-hand-o-right"></i> *Note replacement values surrounded by double brackets  &#123; &#123; &nbsp;  &#125; &#125;.*
 
-Best regards,
-
-{ { email signature } }
-
-
-```
+<script src="https://gist.github.com/techstreams/475710470e6a2ea98c13.js"></script>
 
 
 `~~~`

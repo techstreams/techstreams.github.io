@@ -8,9 +8,11 @@ Here's a fantastic new [Google Docs](https://www.google.com/docs/about/) feature
 
 Voice typing is available in [Chrome](https://www.google.com/chrome/) for the web, as well as the Android and iOS Google Docs mobile apps, with support for ***more than 40 languages***.
 
+{::nomarkdown}
 <div class='embed-container'>
 	<iframe src='https://www.youtube.com/embed/bUMG2TV-ZRw' frameborder=0 allowfullscreen></iframe>
 </div>
+{:/nomarkdown}
 
 ---
 
