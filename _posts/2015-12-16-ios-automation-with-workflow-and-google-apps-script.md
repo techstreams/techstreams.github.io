@@ -23,7 +23,7 @@ tags: [google-apps-script, workflow, markdown]
 <i class="fa fa-hand-o-right"></i> *See [Creating a standalone script](https://developers.google.com/apps-script/guides/standalone#creating_a_standalone_script) and  [Deploying a script as a web app](https://developers.google.com/apps-script/guides/web#deploying_a_script_as_a_web_app) for more on deploying these [Google Apps Script](https://www.google.com/script/start/) examples in your environment.*
 
 
-`~~~`
+---
 
 
 **SIMPLE TEXT RESPONDER**
@@ -50,7 +50,9 @@ tags: [google-apps-script, workflow, markdown]
 
 <br>
 
-`~~~`
+
+---
+
 
 **MARKDOWN SERVER**
 
@@ -89,7 +91,7 @@ tags: [google-apps-script, workflow, markdown]
 
 <br>
 
-`~~~`
+---
 
 
 **CUSTOM EMAILER**
