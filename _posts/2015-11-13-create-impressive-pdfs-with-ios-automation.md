@@ -41,7 +41,7 @@ Install the following apps on your iOS mobile device:
 
 <i class="fa fa-hand-o-right"></i> *For more on __Workflow__ see [iOS Automation with Workflow](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
 
-`~~~`
+<br>
 
 **STEP 2**
 
@@ -56,7 +56,7 @@ After app installation:
 
 
 
-`~~~`
+<br>
 
 **STEP 3**
 
@@ -75,7 +75,7 @@ Looking for an example?  Try this markdown:
 
 
 
-`~~~`
+<br>
 
 **STEP 4**
 
@@ -122,7 +122,7 @@ After completing each prompt:
 * Press the **Cancel** button to exit and return to **Drafts**
 
 
-`~~~`
+<br>
 
 **STEP 5**
 

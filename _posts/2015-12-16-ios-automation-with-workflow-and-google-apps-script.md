@@ -127,8 +127,7 @@ tags: [google-apps-script, workflow, markdown]
 
 <script src="https://gist.github.com/techstreams/475710470e6a2ea98c13.js"></script>
 
-
-`~~~`
+---
 
 <i class="fa fa-hand-o-right"></i> *In upcoming posts I'll describe more ways I integrate [Workflow](https://workflow.is/) with [Google Apps Script](https://www.google.com/script/start/).*
 

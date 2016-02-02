@@ -29,7 +29,7 @@ Install the following apps on your iOS mobile device:
 * [Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) *(& [Google Drive](https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8) )*
 
 
-`~~~`
+<br>
 
 **STEP 2**
 
@@ -37,14 +37,14 @@ Create a mindmap in **[iThoughts](https://itunes.apple.com/us/app/ithoughts-mind
 
 <i class="fa fa-hand-o-right"></i> *For help with __iThoughts__ see the [website](http://toketaware.com/ithoughts-ios/).*
 
-`~~~`
+<br>
 
 **STEP 3**
 
 Use the __[iThoughts](https://itunes.apple.com/us/app/ithoughts-mindmap/id866786833?mt=8)__ sharing capability to export the mind map into **[Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8)** as a PowerPoint *.pptx* presentation.
 
 
-`~~~`
+<br>
 
 **STEP 4**
 
@@ -56,7 +56,7 @@ Tap **<i class="fa fa-question-circle"></i>** next to **Office Compatibility Mod
 
 Tap **Save as Google Slides** button to convert the PowerPoint presentation to the **[Google Slides](https://www.google.com/slides/about/)** format.
 
-`~~~`
+<br>
 
 <br>
 

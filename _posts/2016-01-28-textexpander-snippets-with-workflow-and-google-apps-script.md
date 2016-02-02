@@ -37,7 +37,7 @@ Here's a short video overview:
 </div>
 {:/nomarkdown}
 
-`~~~`
+<br>
 
 **[TextExpander](https://smilesoftware.com/textexpander-ios)** also provides the ability to ***[share snippet groups](https://smilesoftware.com/help/touch3/groups.html)***.  
 

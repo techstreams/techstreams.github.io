@@ -93,8 +93,7 @@ Install the following apps on your iOS mobile device:
 
 <i class="fa fa-hand-o-right"></i> *For more on __Drafts__ see [iOS Automation with Drafts](https://techstreams.github.io/2015/09/03/ios-automation-with-drafts/).*
 
-
-`~~~`
+<br>
 
 **STEP 2**
 
@@ -102,7 +101,7 @@ After app installation:
 
 * Install the **[GSlides Drafts Action](https://drafts4-actions.agiletortoise.com/a/1b2)** from the *[Drafts Action Directory](https://drafts4-actions.agiletortoise.com)*.
 
-`~~~`
+<br>
 
 **STEP 3**
 
@@ -113,7 +112,7 @@ Enter presentation markdown content into **Drafts** using markdown.
 <i class="fa fa-hand-o-right"></i> *For more on editing in Drafts, see the [Basics of Navigating Drafts](https://agiletortoise.zendesk.com/hc/en-us/articles/203530077-Basics-Navigating-Drafts).*
 
 
-`~~~`
+<br>
 
 **STEP 4**
 
@@ -125,7 +124,7 @@ When the action runs, you'll be prompted for the **Presentation Title**.  *Enter
 The action will automatically open the **[makeSlides](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8)** app and create a PowerPoint *.pptx* presentation.
 
 
-`~~~`
+<br>
 
 **STEP 5**
 
@@ -155,7 +154,7 @@ Install the following apps on your iOS mobile device:
 
 <i class="fa fa-hand-o-right"></i> *For more on __Workflow__ see [iOS Automation with Workflow](https://techstreams.github.io/2015/04/06/ios-automation-with-workflow/).*
 
-`~~~`
+<br>
 
 **STEP 2**
 
@@ -167,7 +166,7 @@ Next, you'll be prompted for a **Presentation Title**.  *Enter the desired title
 
 The action will automatically open the **[makeSlides](https://itunes.apple.com/us/app/makeslides/id596053822?mt=8)** app and create a PowerPoint *.pptx* presentation.
 
-`~~~`
+<br>
 
 **STEP 3**
 

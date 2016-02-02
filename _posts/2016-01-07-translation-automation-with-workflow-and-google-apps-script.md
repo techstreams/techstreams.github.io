@@ -39,9 +39,6 @@ Here's a simple *standalone* workflow which ...
 
 ![Workflows]({{site.baseurl}}/images/2016-01-07-translate-workflow.png)
 
-<br>
-
-`~~~`
 
 <br>
 
