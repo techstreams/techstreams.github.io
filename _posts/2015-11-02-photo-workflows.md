@@ -30,6 +30,8 @@ Using the **[Workflow](https://workflow.is/)** app, I've also created some photo
 
 ![Workflow Gallery]({{site.baseurl}}/images/2015-11-02-my-photo-workflows.png)
 
+<br>
+
 *Click the links in the table below to install.*
 
 | WORKFLOW| DESCRIPTION | NOTES |
