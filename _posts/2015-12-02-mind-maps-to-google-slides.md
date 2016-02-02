@@ -58,6 +58,4 @@ Tap **Save as Google Slides** button to convert the PowerPoint presentation to t
 
 <br>
 
-<br>
-
 <i class="fa fa-pencil-square-o"></i>  *Use the __[Google Slides](https://itunes.apple.com/us/app/google-slides/id879478102?mt=8)__ app or the __[Google Slides web interface](https://docs.google.com/presentation)__ to edit, format, share & present the slides.*
