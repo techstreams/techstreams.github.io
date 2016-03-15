@@ -16,7 +16,7 @@ It occurred to me recently that I use ***markdown*** to simplify most of my writ
 
 ### What is markdown? 
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a [plain text markup format](https://en.wikipedia.org/wiki/Markup_language) created by [John Gruber](https://daringfireball.net/)</a>.
+[Markdown](https://daringfireball.net/projects/markdown/) is a [plain text markup format](https://en.wikipedia.org/wiki/Markup_language) created by [John Gruber](https://daringfireball.net/).
 
 Markdown converts easily to formatted [HTML](https://en.wikipedia.org/wiki/HTML) which makes it a great tool for writing and publishing.
 
