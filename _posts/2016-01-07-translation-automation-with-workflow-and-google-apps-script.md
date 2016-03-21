@@ -68,7 +68,7 @@ With the integration of **[Google Apps Script](https://www.google.com/script/sta
 
 | Workflow | Google Apps Script |
 | :--------: | :---------------: |
-| **[<i class="fa fa-refresh"></i> Custom Translator](https://workflow.is/workflows/ad520fad30484a3fa8d63adbf3337d9c)** *(Click for workflow install page)* | **[Custom Translator Script](https://script.google.com/d/1lRVhoir1brlYnXfW70fR6inCwNBr_SjBjmHnl3cmtSansD051lkGmWPI/edit?usp=sharing)** *(Click to make a copy of the script in your Google account)* |
+| **[<i class="fa fa-refresh"></i> Custom Translator](https://workflow.is/workflows/01d1cbaf9b7042ea93424805be78a749)** *(Click for workflow install page)* | **[Custom Translator Script](https://script.google.com/d/1lRVhoir1brlYnXfW70fR6inCwNBr_SjBjmHnl3cmtSansD051lkGmWPI/edit?usp=sharing)** *(Click to make a copy of the script in your Google account)* |
 
 <br>
 

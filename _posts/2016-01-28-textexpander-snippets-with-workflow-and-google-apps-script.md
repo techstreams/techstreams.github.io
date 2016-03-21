@@ -80,7 +80,7 @@ Following is a **[Google Spreadsheet](https://www.google.com/sheets/about/)** wi
 
 | Workflow | Google Apps Script |
 | :--------: | :---------------: |
-| **[<i class="fa fa-refresh"></i> TE Snippet Server](https://workflow.is/workflows/5c443da149c748f2adda8338a2ff81b8)** *(Click for workflow install page)* | **[Snippet Server Spreadsheet & Script](https://docs.google.com/spreadsheets/d/1bh2eJEQ_pgqWI_dALaGxBNE585Yq45yliq_j_3Qf998/copy)** *(Click to make a copy of the spreadsheet w/ script in your Google account)* |
+| **[<i class="fa fa-refresh"></i> TE Snippet Server](https://workflow.is/workflows/ea1239e861bc41788d91861d764e5afc)** *(Click for workflow install page)* | **[Snippet Server Spreadsheet & Script](https://docs.google.com/spreadsheets/d/1bh2eJEQ_pgqWI_dALaGxBNE585Yq45yliq_j_3Qf998/copy)** *(Click to make a copy of the spreadsheet w/ script in your Google account)* |
 
 <br>
 

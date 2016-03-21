@@ -41,7 +41,7 @@ tags: [google-apps-script, workflow, markdown]
 
 | Workflow |
 | :--------: | 
-| **[<i class="fa fa-refresh"></i> Simple Text Responder](https://workflow.is/workflows/396c0e1228f840c099080e34b079b129)** *(Click for workflow install page)*  |
+| **[<i class="fa fa-refresh"></i> Simple Text Responder](https://workflow.is/workflows/9c64caff3a5147fbaba0e724f6057697)** *(Click for workflow install page)*  |
 
 
 ***Google Apps Script code:***
@@ -74,7 +74,7 @@ tags: [google-apps-script, workflow, markdown]
 
 | Workflow |
 | :--------: | 
-| **[<i class="fa fa-refresh"></i> Markdown Server](https://workflow.is/workflows/2e84625a785744e2bd35e29c02bd7423)** *(Click for workflow install page)*  |
+| **[<i class="fa fa-refresh"></i> Markdown Server](https://workflow.is/workflows/ab40993f4b0e480298b26d70746c4ab4)** *(Click for workflow install page)*  |
 
 
 ***Google Apps Script code:***
@@ -110,7 +110,7 @@ tags: [google-apps-script, workflow, markdown]
 
 | Workflow |
 | :--------: | 
-| **[<i class="fa fa-refresh"></i> Custom Emailer](https://workflow.is/workflows/cd4209d46a6a42ae901157b4b9699577)** *(Click for workflow install page)*  |
+| **[<i class="fa fa-refresh"></i> Custom Emailer](https://workflow.is/workflows/0bf7075d811a4cdeabee749ca645568e)** *(Click for workflow install page)*  |
 
 
 ***Google Apps Script code:*** 
