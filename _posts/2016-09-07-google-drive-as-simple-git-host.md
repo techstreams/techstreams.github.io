@@ -16,7 +16,7 @@ tags: [google-drive, development]
 
 <br>
 
-I've taken a couple month writing hiatus to help plan a wedding.  During that time I was able to develop some helpful [Google Apps Scripts](https://www.google.com/script/start/) to assist with event planning *which I hope to share in the future*.  But in this and upcoming posts I want to ***focus on some personal workflows and tools*** I use to help me be more productive during script develop.
+I've taken a several month writing hiatus to help plan a wedding.  During that time I was able to develop some helpful [Google Apps Scripts](https://www.google.com/script/start/) to assist with event planning *which I hope to share in the future*.  But in this and upcoming posts I want to ***focus on some personal workflows and tools*** I use to help me be more productive during script develop.
 
 One such tool ... ***[Google Drive](https://www.google.com/drive/)*** ... can act as a ***simple Git host for backup and sharing*** of personal and collaborative small team script projects.  
 
