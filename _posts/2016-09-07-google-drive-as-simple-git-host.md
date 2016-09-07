@@ -36,12 +36,10 @@ Let's see how easy this is to set up.
 
 **STEP 1:** Download and Install [Google Drive](https://www.google.com/drive/download/) for your desktop and ensure [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on your system
 
-`~~~`
-
 
 **STEP 2:** [Create a Git respository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) for your project
 
-`~~~`
+
 
 **STEP 3:** From inside the project folder, create a **'bare' Git clone** of the repository on Google Drive using the following command
 
@@ -49,7 +47,6 @@ Let's see how easy this is to set up.
 
 *Example:*  `git clone --bare . ~/GoogleDrive/Git/addon.git`
 
-`~~~`
 
 **STEP 4:** Configure a **Git remote** with the following command
 
@@ -57,7 +54,6 @@ Let's see how easy this is to set up.
 
 *Example:*  `git remote add gdrive ~/GoogleDrive/Git/addon.git`
 
-`~~~`
 
 **STEP 5:** Push/Pull project changes to/from the remote ... *changes will sync with Google Drive*
 
@@ -82,21 +78,17 @@ Let's see how easy this is to set up.
 
 **STEP 1:** **[Share](https://support.google.com/drive/answer/2494822)** the Git repostitory folder with the collaborator(s) on Google Drive
 
-`~~~`
 
 <br>
 
 *__Each collaborator__ should then:*
 
-`~~~`
 
 **STEP 2:** Download and install [Google Drive](https://www.google.com/drive/download/) for desktop and ensure that [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on their system
 
-`~~~`
 
 **STEP 3:** **[Sync](https://support.google.com/drive/answer/2375083?hl=en)** the shared Git project folder to their local Google Drive
 
-`~~~`
 
 **STEP 4:** Execute the **Git clone** command for the shared project
 
@@ -106,7 +98,6 @@ Let's see how easy this is to set up.
 *Example:*  `git clone ~/GoogleDrive/Git/addon.git`
 
 
-`~~~`
 
 
 **STEP 5:** Configure a **Git remote** for the shared project with the following command 
@@ -116,7 +107,6 @@ Let's see how easy this is to set up.
 
 *Example:* `git remote add gdrive ~/GoogleDrive/Git/addon.git`
 
-`~~~`
 
 
 **STEP 6:** Push/Pull project changes to/from the remote ... *changes will sync with Google Drive*
