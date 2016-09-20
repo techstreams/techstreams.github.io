@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Apps Script UI Prototyping with Jekyll
-tags: [google-apps-script, static-site]
+tags: [google-apps-script, development]
 ---
 
 ***Static site generators are fantastic*** for developing websites and blogs ... *so why not use them to quickly prototype and test __[Google Apps Script](https://developers.google.com/apps-script/)__ user interfaces*? 
