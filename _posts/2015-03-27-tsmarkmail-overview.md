@@ -40,7 +40,7 @@ Leveraging the [Google Drive](https://www.google.com/drive/) platform, I decided
 
 * Install and access TSMarkMail from the convenient *Add-ons* menu in ***any*** Google Document
 * Create content using [markdown](https://daringfireball.net/projects/markdown/)
-* Take advantage of Google Document [Chat and Real-time Colloboration](https://support.google.com/docs/answer/2494891)
+* Take advantage of Google Document [Chat and Real-time Collaboration](https://support.google.com/docs/answer/2494891)
 * Insert images through the Google Document menu *(or by referencing externally hosted images with markdown image syntax)*
 * Easily select single or multiple email recipients with *Google Contacts* integration
 * Send nicely formatted emails with automatic markdown conversion and image embedding *(with an option to preview before sending)*
