@@ -4,6 +4,7 @@ title: About
 ---
 
 <p class="message">
+{% avatar techstreams size=80 %}
 I'm Laura Taylor and this is where I express my personal thoughts and ideas on scripting, workflow automation and anything else I find interesting ... along with an occasional <a href="{{ site.baseurl }}/projects"><strong><em>project</em></strong></a> I've created intended to benefit others.
 <br><br>
 <span class="social">
