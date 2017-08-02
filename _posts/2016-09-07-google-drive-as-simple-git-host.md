@@ -16,7 +16,7 @@ tags: [google-drive, development]
 
 <br>
 
-I've taken a several month writing hiatus to help plan a wedding.  During that time I was able to develop some helpful [Google Apps Scripts](https://www.google.com/script/start/) to assist with event planning *which I hope to share in the future*.  But in this and upcoming posts I want to ***focus on some personal workflows and tools*** I use to help me be more productive during script develop.
+I've taken a several month writing hiatus during which I was able to develop some helpful [Google Apps Scripts](https://www.google.com/script/start/) which I hope to share in the future.  But in this and upcoming posts I want to ***focus on some personal workflows and tools*** I use to help me be more productive during script develop.
 
 One such tool ... ***[Google Drive](https://www.google.com/drive/)*** ... can act as a ***simple Git host for backup and sharing*** of personal and collaborative small team script projects.  
 
@@ -79,7 +79,7 @@ Let's see how easy this is to set up.
 
 <br>
 
-**STEP 1:** **[Share](https://support.google.com/drive/answer/2494822)** the Git repostitory folder with the collaborator(s) on Google Drive
+**STEP 1:** **[Share](https://support.google.com/drive/answer/2494822)** the Git repository folder with the collaborator(s) on Google Drive
 
 
 <br>
