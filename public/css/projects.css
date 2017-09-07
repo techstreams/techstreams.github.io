@@ -1,1 +1,16 @@
-a.btn{margin-top:3px}footer{margin-bottom:30px}.navbar-inverse .navbar-nav>li>a{color:#ffffff}.navbar-inverse .navbar-nav>li>a :hover{color:#ddd}
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+.jumbotron a {
+  margin-bottom: 5px;
+}
+footer {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+a.btn {
+  margin-top:5px;
+}
