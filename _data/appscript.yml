@@ -1,4 +1,38 @@
 items:
+  - tl_title: TSMarkMail
+    tl_content: Google Drive Add-on for Google Docs.<br><br>Create email with markdown and send it directly from a Google Document.
+    buttons:
+      - href: 'https://medium.com/@techstreams/tsmarkmail-a-google-docs-add-on-56344385768c'
+        name: <i class="fa fa-rss"></i> Blog
+      - href: 'http://tsmarkmail.tech-streams.com/'
+        name: <i class="fa fa-book"></i> Docs
+      - href: 'https://docs.google.com/presentation/d/1pdAJ2q5t_ELO5hBqdBvb6HoAm79fEio55fJhxNvv0Wo'
+        name: <i class="fa fa-file-powerpoint-o"></i> Slides
+      - href: 'https://chrome.google.com/webstore/detail/tsmarkmail/ckilpigdcmhbnhgnofiliinadalclbao?utm_source=permalink'
+        name: <i class="fa fa-external-link"></i> Add-on
+#
+  - tl_title: TSFormTranslator
+    tl_content: >
+      TSFormTranslator is a demonstration Google Apps Script which enables a Google Form owner to translate a form created in English into one of 79 different languages using Google Translate.<br><br>
+      <em>Nicely formatted email containing the submitted content will be sent to the form owner in both the translation language and English translation each time a form user submits to the form.</em>
+    buttons:
+      - href: 'https://medium.com/@techstreams/tsformtranslator-a-google-forms-script-fcfcc0bfb1bc'
+        name: <i class="fa fa-rss"></i> Blog
+      - href: 'https://techstreams.github.io/TSFormTranslator'
+        name: <i class="fa fa-book"></i> Docs
+      - href: 'https://github.com/techstreams/TSFormTranslator'
+        name: <i class="fa fa-github"></i> Github
+#
+  - tl_title: TSContactForm
+    tl_content: Google Apps Script for Google Forms which automatically emails the form owner each time a user submits a response to the form.<br><br><em>Emails are nicely formatted and contain the content of the form submission.</em>
+    buttons:
+      - href: 'https://medium.com/@techstreams/tscontactform-a-google-forms-script-86aa271d017c'
+        name: <i class="fa fa-rss"></i> Blog
+      - href: 'https://techstreams.github.io/TSContactForm'
+        name: <i class="fa fa-book"></i> Docs
+      - href: 'https://github.com/techstreams/TSContactForm'
+        name: <i class="fa fa-github"></i> Github
+#
   - tl_title: Firebase Cloud Function Examples
     tl_content: Collection of example Firebase Cloud Functions to demonstrate backend support for Google Apps Script.
     buttons:
@@ -13,36 +47,21 @@ items:
       - href: 'https://github.com/techstreams/gapps-jekyll-basic'
         name: <i class="fa fa-github"></i> Github
 #
-  - tl_title: Impressive Google Docs
-    tl_content: Drafts Action for creating Google Docs with Markdown and Google Fonts.
+  - tl_title: Workflow Integrations
+    tl_content: Workflow Integrations powered by Google Apps Script<br><br>(See Workflow tab).
+#
+  - tl_title: TSTranslateKhmer
+    tl_content: >
+      Demonstration Google Apps Script which translates Cambodian Khmer to English through a Google Form using Google Translate.<br><br>
+      <em>An email containing both the Khmer text and English translation is automatically sent to the form owner each time a user submits to the form.</em>
     buttons:
-      - href: 'https://medium.com/@techstreams/writing-workflow-create-google-docs-with-drafts-markdown-and-google-fonts-fe16a606c7bd'
-        name: <i class="fa fa-rss"></i> Blog Post
-      - href: 'https://docs.google.com/document/d/1xCy-MjiIBzyhzt2iGjuGG4N3DBWau_kgmZiSQapUOOE'
+      - href: 'https://techstreams.github.io/TSTranslateKhmer'
         name: <i class="fa fa-book"></i> Docs
-      - href: 'https://drafts4-actions.agiletortoise.com/a/19v'
-        name: <i class="fa fa-external-link"></i> Drafts Action
-#
-  - tl_title: Impressive PDFs
-    tl_content: Collaborative Drafts Action and Workflow for creating Impressive PDFs with Markdown and Google Fonts.
-    buttons:
-      - href: 'https://techstreams.github.io/2015/11/13/create-impressive-pdfs-with-ios-automation/'
-        name: <i class="fa fa-rss"></i> Blog Post
-      - href: 'https://drafts4-actions.agiletortoise.com/a/1a2'
-        name: <i class="fa fa-external-link"></i> Drafts Action
-      - href: 'https://workflow.is/workflows/35d87231e09f4a6f9d11bdca0a2510b7'
-        name: <i class="fa fa-external-link"></i> Workflow
-#
-  - tl_title: Google Slides with Drafts
-    tl_content: Drafts Action for creating Google Slides with Markdown.
-    buttons:
-      - href: 'https://medium.com/@techstreams/presentation-workflow-markdown-to-google-slides-part-1-500a372cb33c'
-        name: <i class="fa fa-rss"></i> Blog Post
-      - href: 'https://drafts4-actions.agiletortoise.com/a/1b2'
-        name: <i class="fa fa-external-link"></i> Drafts Action
-#
-  - tl_title: Harp-Github-Markdown
-    tl_content: Harp Static Site Generator Boilerplate for Github Flavored Markdown.
-    buttons:
-      - href: 'https://github.com/techstreams/harp-github-markdown'
+      - href: 'https://github.com/techstreams/TSTranslateKhmer'
         name: <i class="fa fa-github"></i> Github
+#
+  - tl_title: MarkIt Web Publisher
+    tl_content: A Google Apps Script web publishing tool for Google Drive.<br><br><em>Semi-Finalist in the 2012 Google Apps Developer Challenge.</em>
+    buttons:
+      - href: 'https://plus.google.com/100091091550629052565/posts'
+        name: <i class="fa fa-google-plus-square"></i> Google+
