@@ -13,7 +13,7 @@ items:
 #
   - tl_title: TSFormTranslator
     tl_content: >
-      TSFormTranslator is a demonstration Google Apps Script which enables a Google Form owner to translate a form created in English into one of 79 different languages using Google Translate.<br><br>
+      Demonstration Google Apps Script which enables a Google Form owner to translate a form created in English into one of 79 different languages using Google Translate.<br><br>
       <em>Nicely formatted email containing the submitted content will be sent to the form owner in both the translation language and English translation each time a form user submits to the form.</em>
     buttons:
       - href: 'https://medium.com/@techstreams/tsformtranslator-a-google-forms-script-fcfcc0bfb1bc'
