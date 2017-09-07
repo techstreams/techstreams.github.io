@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TechStreams Projects</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.baseurl}}/public/css/projects.css">
+    {% include google_analytics.html %}
+  </head>
+  <body>
+
+    <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse">
+      <div class="container">
+         <a class="navbar-brand" href="/">Tech Streams</a>
+      </div>
+    </nav>
+
+
+    {{ content }}
+
+    <footer>
+      <div class="container text-center">
+        <div>© {{ site.time | date: '%Y' }} <a href="{{site.baseurl}}/about">Laura Taylor</a>, All rights reserved.</div>
+        <div>
+          <a href="https://medium.com/@techstreams" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAABGlBMVEUAAAACddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddj7M5F4AAAAXXRSTlMAAQIDBAUGBwgJCgsMDhARFRcZGhscJCYnKCkrLjIzNDU3ODo7PUdKTE5SXl9hYmNkZmdoaWx1eXuAgoOFkpWanqqvtLW3vsDBw8XIys7T1dna3uDo6evt7/X3+f1we73oAAABeklEQVRIx+3TV1PCQBQF4BNIFEWKBXtBxYoVUbErimDBjpjE8///hg+Ahp2F3Tyb85S5534zaQsECRKkW65uJ+RFqMrjqAKTvBuXFTmSKk7KeZyNdOXNncqYML9mKycDKkyW2/giPenIPTsebtZJDd62M9KaHlFIQY1TzeGwaOumBg4DAIxHEWeUz0ym4jMAsCbaEtI6+CMMRBwRJ8I1HcwD4EK0eRxSCzNpvAn2PTRITVzBpICncK+LuSzc9yVWqI3t3j7vG3P7I7Y+5lnbt1rHOX1gjnr+kqoxRl/4xRj5Gxmv/jA3fk/GKTbpE3/Hmmfyy4p9a+Oo27goIkOSXEKR2hg9+Qafxw3JEhboAwM9ey7JmhknmTA//WHAyrlkATnuoUC/GLB2XQ6FyqEhdse2DAPWThkGHhR4X44BK4pVKjBmn+QYQNZRYWDuqQOGte2oMJB+lmPA2nJUuMVTksbcdFS4wZPSxszarEGR6dVOjZlJqnCQIP88PyMcPqT+GVNJAAAAAElFTkSuQmCC"/></a>
+          </a>
+        	<a href="https://twitter.com/techstreams" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAABSlBMVEUAAAACddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddg5mmmdAAAAbXRSTlMAAQIDBAUGCAkKCw0ODxAREhMUFRYZGhsdHiAjJCYnKiwwMjQ1Nzg5Oz9ERktNTlFUVVZYXF1mZ2t0eHl7gIOJjI6PkZKYmpuipqiqq62wsrS3ubq+wcPFx8jOz9HX2drc4OTm6Onr7e/x9/v9GofwGAAAAUhJREFUGBntwVVDwmAABdC7DcVOTOzAwu7uQuwAW7E37v9/NRBxg+/b5MGnnQOXy5UtTUWWmtcN8nm2Al8KIeJDmpx9fpsGlIb9HghU6ZWwyL3jj/CGwYgCgQk++2B2TJP7PGjILETqTfitkyYXrYFNPzI74odJBSnHtBqAwAo/nVUjSaNVP0RGmLBajoQCmsVbIFTApN0ODz7k08yAxCJTDidbq300e4KEdkupc4iNlOZHKROC2A71W8rMQmyMNgIQK6aNEkgsUOoFMmqUMlOQytmjRBlsdF1Q5BQ2gr2jNxSoh41xCm3BjnpNgXgxbBU9MLM+OOANM5M1OFM3d2nQIqrBqdprmkU8cMg7Q4tTDxxR6xZptaTCjtI9ODF/yDSPbXCiO8Y0r0MqnFEa1+L8bbtdwR9oNcHlg6s3PXayNOzX4HK5/tU7iAk8ch/qfT8AAAAASUVORK5CYII="/></a>
+        	<a href="https://github.com/techstreams" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAABd1BMVEUAAAACddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddgCddiAD4u4AAAAfHRSTlMAAQIDBAUGBwgJCgsNDxAREhMUFRcaGxwdHiAiIyYoKSorLzAzNjhAQURGR0lKTVFSVFZXWVtcXV5fYWNkZ2hsb3Bxc3h5goOFiImLjI6PlJWYmpudnqCio6WmqLC0tbe6vL7Aw8jKzs/R1dfZ3N7g4uTm6e3x8/X3+fv9pjiv4wAAAe1JREFUGBntwf1bS2EcB+DPc45jZg3V1ryNkpQsLxFCmndFTEkqL6mEJIutnbXPH2/nOT3Vle85Wz+5XNfuGw0N/4Q6enFsYdXNL+aunFTYk/iDAre5jxOoW2yMu003oz69ZQpuKNRmTVI256AWZ55BlmMIZ80z2IqDUBMMM6cQ4jw9x5oyy9wpfykeq7DqDoIddFn1E1Vnf7mz2WuZ/uGJYimjALylpxWBRul5DY+CYcEzRM87BGmi9hKSW9RSCJCltgTJC2qvEOA3tVVIPlCr2BAl6UtBEtug1glRhto0ZPepDUM0Qq0LsiS1jxAtUItDZlNzIfpBLYIA9ClIXGpRyBR9NiRr1A5Dto8+BckitTOQJaiVIZqidg+yPmrfIbpNraAgWqL2HKI0fb2QnKavByKHvlIz/hbN03cEsin6Cu3YLbVK3xcESJMcOPee5OwJhR3acjS6EWSFHLdjl1nlzvTB1zm5zi1FG0HSJL9ZB2boaYHPKXNbN4LlSD5y8JnkCoxxbvmEEPvXyErEUYmedmy5S6MUR5iWMjkK2K2WA2OARhrhOirkm6QNWDCuc9MF1HJ8ndpTGDepVbpQW/wrPSMwBunJt6Ee6uoGyWcwBlmVtVCn6FCRT2D0s/zwEPbAOhWBYXfYaGj47/wBKTo0+tyQ/5IAAAAASUVORK5CYII="/></a>
+        </div>
+      </div>
+    </footer>
+
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  </body>
+</html>

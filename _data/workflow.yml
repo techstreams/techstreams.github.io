@@ -1,0 +1,172 @@
+items:
+  - tl_title: TextExpander Snippets
+    tl_content: Google Apps Script which shares TextExpander snippets with Workflow from a Google Spreadsheet.
+    buttons:
+      - href: 'https://techstreams.github.io/2016/01/28/textexpander-snippets-with-workflow-and-google-apps-script/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/ea1239e861bc41788d91861d764e5afc'
+        name: <i class="fa fa-external-link"></i> Workflow
+      - href: 'https://docs.google.com/spreadsheets/d/1bh2eJEQ_pgqWI_dALaGxBNE585Yq45yliq_j_3Qf998/copy'
+        name: <i class="fa fa-external-link"></i> Google Sheet
+      - href: 'https://gist.github.com/techstreams/92cf9bdbef3f4e97af15#file-gapps_snippet_server-js'
+        name: <i class="fa fa-github"></i> Script
+#
+  - tl_title: Simple Text Responder
+    tl_content: Google Apps Script which supplies a set of commonly used responses to Workflow to create a select list for quick messaging.
+    buttons:
+      - href: 'https://techstreams.github.io/2015/12/16/ios-automation-with-workflow-and-google-apps-script/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/9c64caff3a5147fbaba0e724f6057697'
+        name: <i class="fa fa-external-link"></i> Workflow
+      - href: 'https://gist.github.com/techstreams/ba6e8216cbc8ed1c4008#file-gapps_text_responder-js'
+        name: <i class="fa fa-github"></i> Script
+#
+  - tl_title: Markdown Server
+    tl_content:  Google Apps Script which supplies a set of markdown files to Workflow to be converted into email or used to create PDFs.
+    buttons:
+      - href: 'https://techstreams.github.io/2015/12/16/ios-automation-with-workflow-and-google-apps-script/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/ab40993f4b0e480298b26d70746c4ab4'
+        name: <i class="fa fa-external-link"></i> Workflow
+      - href: 'https://gist.github.com/techstreams/ed07d47d83cb5649ed59#file-gapps_markdown_server-js'
+        name: <i class="fa fa-github"></i> Script
+#
+  - tl_title: Custom Emailer
+    tl_content:  Google Apps Script which supplies custom templates to Workflow to be converted into email after prompting for replacement fields.
+    buttons:
+      - href: 'https://techstreams.github.io/2015/12/16/ios-automation-with-workflow-and-google-apps-script/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/0bf7075d811a4cdeabee749ca645568e'
+        name: <i class="fa fa-external-link"></i> Workflow
+      - href: 'https://gist.github.com/techstreams/ed07d47d83cb5649ed59#file-gapps_markdown_server-js'
+        name: <i class="fa fa-github"></i> Script
+      - href: 'https://gist.github.com/techstreams/475710470e6a2ea98c13#file-example_email-md'
+        name: <i class="fa fa-external-link"></i> Example Email
+#
+  - tl_title: Text Translator
+    tl_content: Text Translation Workflow.
+    buttons:
+      - href: 'https://techstreams.github.io/2016/01/07/translation-automation-with-workflow-and-google-apps-script/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/3f43d9bc1dca43a1a4b9115a96b9a0f2'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Custom Translator
+    tl_content: >
+      Google Apps Script which supplies localized rich text content to the iOS Workflow app to be sent as email or shared as a PDF after prompting for the translation language.<br><br>
+      <em>Content can include HTML for rich text.</em>
+    buttons:
+      - href: 'https://techstreams.github.io/2016/01/07/translation-automation-with-workflow-and-google-apps-script/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/01d1cbaf9b7042ea93424805be78a749'
+        name: <i class="fa fa-external-link"></i> Workflow
+      - href: 'https://script.google.com/d/1lRVhoir1brlYnXfW70fR6inCwNBr_SjBjmHnl3cmtSansD051lkGmWPI/edit?usp=sharing'
+        name: <i class="fa fa-external-link"></i> Script
+      - href: 'https://gist.github.com/techstreams/c99f4f0c88f9c62eadee#file-gapps_translate_webapp-js'
+        name: <i class="fa fa-github"></i> Github
+#
+  - tl_title: Export Single Workflow
+    tl_content: Export a single workflow as a .wflow file.
+    buttons:
+      - href: 'https://workflow.is/workflows/9507c94364ac4eaeab4cb9d228a481d4'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Email Template Server
+    tl_content: Google Apps Script which supplies a responsive email template to Workflow to wrap markdown formatted email content.
+    buttons:
+      - href: 'https://medium.com/@techstreams/g-suite-microservices-with-workflow-and-google-apps-script-b701c9ce2a7d'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/2f710e9530e6448b872891518f6ce5a7'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Text Podcaster
+    tl_content: Google Apps Script which supplies text content to Workflow which uses the text-to-speech utility to create a simple podcast.
+    buttons:
+      - href: 'https://medium.com/@techstreams/g-suite-microservices-with-workflow-and-google-apps-script-b701c9ce2a7d'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/181b8a800f78408486342551e5759321'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: GDoc to PDF
+    tl_content: Google Apps Script which supplies a Google Doc as a PDF to Workflow which can be sent in email, sent in a text message or saved using the iOS share sheet.
+    buttons:
+      - href: 'https://medium.com/@techstreams/g-suite-microservices-with-workflow-and-google-apps-script-b701c9ce2a7d'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/3be4be2c78294405995784659bdc07ee'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Open Slides
+    tl_content: Google Apps Script which supplies a published Google Slides presentation URL select list to Workflow to be automatically opened in a mobile browser.
+    buttons:
+      - href: 'https://medium.com/@techstreams/g-suite-microservices-with-workflow-and-google-apps-script-b701c9ce2a7d'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/08ae3706a2574ecb8f850148a65732be'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Google Slides
+    tl_content: Workflow for creating Google Slides with Markdown.
+    buttons:
+      - href: 'https://medium.com/@techstreams/presentation-workflow-markdown-to-google-slides-part-2-d18ec7fe2d1f'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/74367f2c5b95450b835810254a2f8754'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Impressive PDFs
+    tl_content: Collaborative Drafts Action and Workflow for creating Impressive PDFs with Markdown and Google Fonts.
+    buttons:
+      - href: 'https://techstreams.github.io/2015/11/13/create-impressive-pdfs-with-ios-automation/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://drafts4-actions.agiletortoise.com/a/1a2'
+        name: <i class="fa fa-external-link"></i> Drafts Action
+      - href: 'https://workflow.is/workflows/35d87231e09f4a6f9d11bdca0a2510b7'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Image to PDF
+    tl_content: Select a photo, edit and export as a PDF.
+    buttons:
+      - href: 'https://workflow.is/workflows/0dc43d5e25b442eda5fa9628cf00ad57'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Modify Photos
+    tl_content: Modify the dimensions and format of one or more photos. Preview and optionally save.
+    buttons:
+      - href: 'https://medium.com/@techstreams/ios-automation-some-useful-photo-workflows-9871f4b958f'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/367a79d8b88f4bc5bd0311a04e87636c'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Share Photos By Width
+    tl_content: Select width filtered photos and share with other apps.
+    buttons:
+      - href: 'https://medium.com/@techstreams/ios-automation-some-useful-photo-workflows-9871f4b958f'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/5a9547369f5044439b9a06eaacd3de27'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Save/Share Photo GIF
+    tl_content: Create, preview, save and share animated GIFs.
+    buttons:
+      - href: 'https://medium.com/@techstreams/ios-automation-some-useful-photo-workflows-9871f4b958f'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/2ac6a49f6a5b47d4ae4ffb68ec4fc3bd'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Cleanup Photos
+    tl_content: Delete one or more photos (with confirmation).
+    buttons:
+      - href: 'https://medium.com/@techstreams/ios-automation-some-useful-photo-workflows-9871f4b958f'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/832fb535a1cf40dfbcfbd60a941d5710'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Calendar Confirmations
+    tl_content: Confirm scheduled meetings.
+    buttons:
+      - href: 'https://medium.com/@techstreams/workflow-calendar-confirmations-on-ios-ae9e0630f540'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://workflow.is/workflows/dbb3567098d64658ab1b62e0408218dc'
+        name: <i class="fa fa-external-link"></i> Workflow v1
+      - href: 'https://workflow.is/workflows/9c8772b340b14feda785c031fc588745'
+        name: <i class="fa fa-external-link"></i> Workflow v2
+      - href: 'https://workflow.is/workflows/ff3fcc48fcc64c18953eac6a0350260c'
+        name: <i class="fa fa-external-link"></i> Workflow v3

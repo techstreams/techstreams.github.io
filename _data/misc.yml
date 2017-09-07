@@ -1,0 +1,48 @@
+items:
+  - tl_title: Firebase Cloud Function Examples
+    tl_content: Collection of example Firebase Cloud Functions to demonstrate backend support for Google Apps Script.
+    buttons:
+      - href: 'https://github.com/techstreams/firebase-cloudfunctions-examples'
+        name: <i class="fa fa-github"></i> Github
+#
+  - tl_title: Google Apps Script UI Jekyll Theme
+    tl_content: Jekyll theme for rapid Google Apps Script UI prototyping.
+    buttons:
+      - href: 'https://techstreams.github.io/2016/09/20/google-apps-ui-prototyping-with-jekyll/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://github.com/techstreams/gapps-jekyll-basic'
+        name: <i class="fa fa-github"></i> Github
+#
+  - tl_title: Impressive Google Docs
+    tl_content: Drafts Action for creating Google Docs with Markdown and Google Fonts.
+    buttons:
+      - href: 'https://medium.com/@techstreams/writing-workflow-create-google-docs-with-drafts-markdown-and-google-fonts-fe16a606c7bd'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://docs.google.com/document/d/1xCy-MjiIBzyhzt2iGjuGG4N3DBWau_kgmZiSQapUOOE'
+        name: <i class="fa fa-book"></i> Docs
+      - href: 'https://drafts4-actions.agiletortoise.com/a/19v'
+        name: <i class="fa fa-external-link"></i> Drafts Action
+#
+  - tl_title: Impressive PDFs
+    tl_content: Collaborative Drafts Action and Workflow for creating Impressive PDFs with Markdown and Google Fonts.
+    buttons:
+      - href: 'https://techstreams.github.io/2015/11/13/create-impressive-pdfs-with-ios-automation/'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://drafts4-actions.agiletortoise.com/a/1a2'
+        name: <i class="fa fa-external-link"></i> Drafts Action
+      - href: 'https://workflow.is/workflows/35d87231e09f4a6f9d11bdca0a2510b7'
+        name: <i class="fa fa-external-link"></i> Workflow
+#
+  - tl_title: Google Slides with Drafts
+    tl_content: Drafts Action for creating Google Slides with Markdown.
+    buttons:
+      - href: 'https://medium.com/@techstreams/presentation-workflow-markdown-to-google-slides-part-1-500a372cb33c'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://drafts4-actions.agiletortoise.com/a/1b2'
+        name: <i class="fa fa-external-link"></i> Drafts Action
+#
+  - tl_title: Harp-Github-Markdown
+    tl_content: Harp Static Site Generator Boilerplate for Github Flavored Markdown.
+    buttons:
+      - href: 'https://github.com/techstreams/harp-github-markdown'
+        name: <i class="fa fa-github"></i> Github
