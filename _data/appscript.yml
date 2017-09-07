@@ -48,7 +48,7 @@ items:
         name: <i class="fa fa-github"></i> Github
 #
   - tl_title: Workflow Integrations
-    tl_content: Workflow Integrations powered by Google Apps Script<br><br>(See Workflow tab).
+    tl_content: Workflow Integrations powered by Google Apps Script.<br><br>(See Workflow tab).
 #
   - tl_title: TSTranslateKhmer
     tl_content: >
