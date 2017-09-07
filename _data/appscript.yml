@@ -48,7 +48,7 @@ items:
         name: <i class="fa fa-github"></i> Github
 #
   - tl_title: Workflow Integrations
-    tl_content: Workflow Integrations powered by Google Apps Script.<br><br><a href="{{ site.baseurl }}/workflow" class="btn btn-secondary btn-sm" role="button">See Workflow</a>.
+    tl_content: Workflow Integrations powered by Google Apps Script.<br><br><a href="{{ site.baseurl }}/workflow" class="btn btn-secondary btn-sm" role="button">See Workflow</a>
 #
   - tl_title: TSTranslateKhmer
     tl_content: >
