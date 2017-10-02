@@ -11,6 +11,15 @@ items:
       - href: 'https://chrome.google.com/webstore/detail/tsmarkmail/ckilpigdcmhbnhgnofiliinadalclbao?utm_source=permalink'
         name: <i class="fa fa-external-link"></i> Add-on
 #
+  - tl_title: TSCron
+    tl_content: >
+       A Google Forms based Cron scheduler powered by Google Apps Script.
+    buttons:
+      - href: 'https://medium.com/@techstreams/tscron-a-google-forms-cron-scheduler-powered-by-google-apps-script-ebe0c195f716'
+        name: <i class="fa fa-rss"></i> Blog
+      - href: 'https://github.com/techstreams/TSCron'
+        name: <i class="fa fa-github"></i> Github
+#
   - tl_title: TSFormTranslator
     tl_content: >
       Demonstration Google Apps Script which enables a Google Form owner to translate a form created in English into one of 79 different languages using Google Translate.<br><br>
