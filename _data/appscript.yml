@@ -11,6 +11,15 @@ items:
       - href: 'https://chrome.google.com/webstore/detail/tsmarkmail/ckilpigdcmhbnhgnofiliinadalclbao?utm_source=permalink'
         name: <i class="fa fa-external-link"></i> Add-on
 #
+  - tl_title: TSFormBot
+    tl_content: >
+       A Google Form Hangouts Chat Bot powered by Google Apps Script.
+    buttons:
+      - href: 'https://medium.com/@techstreams/tsformbot-a-google-form-hangouts-chat-bot-powered-by-google-apps-script-101a3b3d8773'
+        name: <i class="fa fa-rss"></i> Blog
+      - href: 'https://github.com/techstreams/TSFormBot'
+        name: <i class="fa fa-github"></i> Github
+#
   - tl_title: TSCron
     tl_content: >
        A Google Forms based Cron scheduler powered by Google Apps Script.
