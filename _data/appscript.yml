@@ -28,7 +28,7 @@ items:
         name: <i class="fa fa-github"></i> Github
 #
   - tl_title: TSMarkMail
-    tl_content: <em>NOTICE: TSMarkMail Shutting Down January, 2019</em><br><br>Google Drive Add-on for Google Docs.<br><br>Create email with markdown and send it directly from a Google Document.
+    tl_content: <em>TSMarkMail Shutting Down January, 2019</em><br><br>Google Drive Add-on for Google Docs.<br><br>Create email with markdown and send it directly from a Google Document.
     buttons:
       - href: 'https://medium.com/@techstreams/tsmarkmail-a-google-docs-add-on-56344385768c'
         name: <i class="fa fa-rss"></i> Blog
