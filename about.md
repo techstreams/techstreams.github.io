@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<div class="message">
 {% avatar techstreams size=80 %}
 <span class="social">
 	<a href="https://medium.com/@techstreams" target="_blank"><i class="fa fa-medium fa-2x"></i></a>
@@ -13,7 +13,6 @@ title: About
 <br><br>
 I'm Laura Taylor, a G Suite Developer/Consultant providing customized technical solutions for Business, Education and Non-Profit.<br><br>
 I build <br>
-
 <ul>
   <li><a href="https://gsuite.google.com/" target="_blank">G Suite</a> Workflow Integrations</li>
   <li>Custom <a href="https://www.youtube.com/watch?v=lZqX6ocwHWU" target="_blank">Google Docs Add-ons</a> and custom Web Applications</li>
@@ -25,7 +24,7 @@ I build <br>
 <br><br>
 Need a custom solution for your G Suite domain?  <a href="https://sites.google.com/tech-streams.com/website/contact" target="_blank">Get in touch</a>
 <br><br>
-</p>
+</div>
 
 ---
 
