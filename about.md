@@ -12,7 +12,7 @@ title: About
 </span>
 <br><br>
 I'm Laura Taylor, a G Suite Developer/Consultant providing customized technical solutions for Business, Education and Non-Profit.<br><br>
-I build: <br>
+I build <br>
 
 <ul>
   <li><a href="https://gsuite.google.com/" target="_blank">G Suite</a> Workflow Integrations</li>
