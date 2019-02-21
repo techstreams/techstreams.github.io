@@ -13,11 +13,15 @@ title: About
 <br><br>
 I'm Laura Taylor, a G Suite Developer/Consultant providing customized technical solutions for Business, Education and Non-Profit.<br><br>
 I build: <br>
-* <a href="https://gsuite.google.com/" target="_blank">G Suite</a> Workflow Integrations
-* Custom <a href="https://www.youtube.com/watch?v=lZqX6ocwHWU" target="_blank">Google Docs Add-ons</a> and custom Web Applications
-* Google Sheets Macros and Custom Functions
-* <a href="https://gsuite.google.com/products/chat/" target="_blank">Hangout Chat Bots</a>
-* Custom applications for the "new" <a href="https://gsuite.google.com/products/sites/" target="_blank">Google Sites</a>
+
+<ul>
+  <li><a href="https://gsuite.google.com/" target="_blank">G Suite</a> Workflow Integrations</li>
+  <li>Custom <a href="https://www.youtube.com/watch?v=lZqX6ocwHWU" target="_blank">Google Docs Add-ons</a> and custom Web Applications</li>
+  <li>Google Sheets Macros and Custom Functions</li>
+  <li><a href="https://gsuite.google.com/products/chat/" target="_blank">Hangout Chat Bots</a></li>
+  <li>Custom applications for the "new" <a href="https://gsuite.google.com/products/sites/" target="_blank">Google Sites</a></li>
+</ul>
+
 <br><br>
 Need a custom solution for your G Suite domain?  <a href="https://sites.google.com/tech-streams.com/website/contact" target="_blank">Get in touch</a>
 <br><br>
