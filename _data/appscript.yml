@@ -75,9 +75,6 @@ items:
       - href: 'https://github.com/techstreams/gapps-jekyll-basic'
         name: <i class="fa fa-github"></i> Github
 #
-  - tl_title: Workflow Integrations
-    tl_content: Workflow Integrations powered by Google Apps Script.<br><br><a href="https://techstreams.github.io/workflow/" class="btn btn-secondary btn-sm" role="button">See Workflow</a>
-#
   - tl_title: TSTranslateKhmer
     tl_content: >
       Demonstration Google Apps Script which translates Cambodian Khmer to English through a Google Form using Google Translate.<br><br>
@@ -93,3 +90,6 @@ items:
     buttons:
       - href: 'https://plus.google.com/100091091550629052565/posts'
         name: <i class="fa fa-google-plus-square"></i> Google+
+#
+  - tl_title: Workflow Integrations
+    tl_content: Workflow Integrations powered by Google Apps Script.<br><br><em>See Workflow</em>
