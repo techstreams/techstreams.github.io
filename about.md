@@ -11,9 +11,14 @@ title: About
 	<a href="https://github.com/techstreams" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
 </span>
 <br><br>
-I'm Laura Taylor ... a G Suite Developer/Consultant providing customized technical solutions for Business, Education and Non-Profit.<br><br>
-I build G Suite Workflow Integrations, custom Google Docs Add-ons and custom Web Applications.<br><br>
-I develop <a href="https://www.google.com/script/start/" target="_blank">Google Apps Scripts</a> and <a href="https://firebase.google.com/docs/functions/" target="_blank">"Serverless" Firebase Cloud Functions</a> to automate business processes and drive productivity.<br><br>
+I'm Laura Taylor, a G Suite Developer/Consultant providing customized technical solutions for Business, Education and Non-Profit.<br><br>
+I build: <br>
+* <a href="https://gsuite.google.com/" target="_blank">G Suite</a> Workflow Integrations
+* Custom <a href="https://www.youtube.com/watch?v=lZqX6ocwHWU" target="_blank">Google Docs Add-ons</a> and custom Web Applications
+* Google Sheets Macros and Custom Functions
+* <a href="https://gsuite.google.com/products/chat/" target="_blank">Hangout Chat Bots</a>
+* Custom applications for the "new" <a href="https://gsuite.google.com/products/sites/" target="_blank">Google Sites</a>
+<br><br>
 Need a custom solution for your G Suite domain?  <a href="https://sites.google.com/tech-streams.com/website/contact" target="_blank">Get in touch</a>
 <br><br>
 </p>
