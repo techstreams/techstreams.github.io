@@ -3,7 +3,7 @@ items:
     tl_content: Custom Google Sheets Macro for calculating Benfords Law.
     buttons:
       - href: 'https://medium.com/@techstreams/using-apps-script-a-google-sheets-macro-and-benfords-law-to-detect-potential-fraud-9fbd91b325ab'
-        name: <i class="fa fa-rss"></i> Blog
+        name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/google-sheets-macros'
         name: <i class="fa fa-github"></i> Script
       - href: 'https://docs.google.com/spreadsheets/d/1VoPTlACDf8MhPxJx5aHwEEoMVtlt9qaSvzzKWS1nenI/copy'
@@ -14,7 +14,7 @@ items:
        A Google Form Hangouts Chat Bot powered by Google Apps Script.
     buttons:
       - href: 'https://medium.com/@techstreams/tsformbot-a-google-form-hangouts-chat-bot-powered-by-google-apps-script-101a3b3d8773'
-        name: <i class="fa fa-rss"></i> Blog
+        name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/TSFormBot'
         name: <i class="fa fa-github"></i> Github
 #
@@ -23,7 +23,7 @@ items:
        A Google Forms based Cron scheduler powered by Google Apps Script.
     buttons:
       - href: 'https://medium.com/@techstreams/tscron-a-google-forms-cron-scheduler-powered-by-google-apps-script-ebe0c195f716'
-        name: <i class="fa fa-rss"></i> Blog
+        name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/TSCron'
         name: <i class="fa fa-github"></i> Github
 #
@@ -31,7 +31,7 @@ items:
     tl_content: <em>TSMarkMail Shutting Down January, 2019</em><br><br>Google Drive Add-on for Google Docs.<br><br>Create email with markdown and send it directly from a Google Document.
     buttons:
       - href: 'https://medium.com/@techstreams/tsmarkmail-a-google-docs-add-on-56344385768c'
-        name: <i class="fa fa-rss"></i> Blog
+        name: <i class="fa fa-rss"></i> Blog Post
       - href: 'http://tsmarkmail.tech-streams.com/'
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://docs.google.com/presentation/d/1pdAJ2q5t_ELO5hBqdBvb6HoAm79fEio55fJhxNvv0Wo'
@@ -45,7 +45,7 @@ items:
       <em>Nicely formatted email containing the submitted content will be sent to the form owner in both the translation language and English translation each time a form user submits to the form.</em>
     buttons:
       - href: 'https://medium.com/@techstreams/tsformtranslator-a-google-forms-script-fcfcc0bfb1bc'
-        name: <i class="fa fa-rss"></i> Blog
+        name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://techstreams.github.io/TSFormTranslator'
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://github.com/techstreams/TSFormTranslator'
@@ -55,7 +55,7 @@ items:
     tl_content: Google Apps Script for Google Forms which automatically emails the form owner each time a user submits a response to the form.<br><br><em>Emails are nicely formatted and contain the content of the form submission.</em>
     buttons:
       - href: 'https://medium.com/@techstreams/tscontactform-a-google-forms-script-86aa271d017c'
-        name: <i class="fa fa-rss"></i> Blog
+        name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://techstreams.github.io/TSContactForm'
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://github.com/techstreams/TSContactForm'
