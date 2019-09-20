@@ -36,8 +36,6 @@ items:
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://docs.google.com/presentation/d/1pdAJ2q5t_ELO5hBqdBvb6HoAm79fEio55fJhxNvv0Wo'
         name: <i class="fa fa-file-powerpoint-o"></i> Slides
-      - href: 'https://chrome.google.com/webstore/detail/tsmarkmail/ckilpigdcmhbnhgnofiliinadalclbao?utm_source=permalink'
-        name: <i class="fa fa-external-link"></i> Add-on
 #
   - tl_title: TSFormTranslator
     tl_content: >
