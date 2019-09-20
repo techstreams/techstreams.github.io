@@ -86,8 +86,6 @@ items:
   - tl_title: MarkIt Web Publisher
     tl_content: A Google Apps Script web publishing tool for Google Drive.<br><br><em>Semi-Finalist in the 2012 Google Apps Developer Challenge.</em>
     buttons:
-      - href: 'https://plus.google.com/100091091550629052565/posts'
-        name: <i class="fa fa-google-plus-square"></i> Google+
 #
   - tl_title: Workflow Integrations
     tl_content: Workflow Integrations powered by Google Apps Script.<br><br><em>See Workflow Resources</em>
