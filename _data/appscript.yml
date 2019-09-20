@@ -17,6 +17,8 @@ items:
         name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/TSFormBot'
         name: <i class="fa fa-github"></i> Github
+      - href: 'https://docs.google.com/forms/d/1KWev-4-TlVLlNFPrCQlvawZXiDmGFEFJvm4PR2Hrycs/copy'
+        name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: TSCron
     tl_content: >
@@ -26,6 +28,8 @@ items:
         name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/TSCron'
         name: <i class="fa fa-github"></i> Github
+      - href: 'https://docs.google.com/forms/d/1JMuiobgfOyVb9EzbZiMdYnvkTXoSPzZta9MEZ5uKWyU/copy'
+        name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: TSMarkMail
     tl_content: <em>TSMarkMail Shutting Down January, 2019</em><br><br>Google Drive Add-on for Google Docs.<br><br>Create email with markdown and send it directly from a Google Document.
@@ -48,6 +52,8 @@ items:
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://github.com/techstreams/TSFormTranslator'
         name: <i class="fa fa-github"></i> Github
+      - href: 'https://docs.google.com/forms/d/1-U8SXOuz9pWPZuRouX-1DNPoNvrzQLtUriqcvAcVuPI/copy'
+        name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: TSContactForm
     tl_content: Google Apps Script for Google Forms which automatically emails the form owner each time a user submits a response to the form.<br><br><em>Emails are nicely formatted and contain the content of the form submission.</em>
@@ -58,6 +64,8 @@ items:
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://github.com/techstreams/TSContactForm'
         name: <i class="fa fa-github"></i> Github
+      - href: 'https://docs.google.com/forms/d/1R3UizT2_VeqfgtTiV4NSo5fVVx51syIO6cmQfmQxeJc/copy'
+        name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: Firebase Cloud Function Examples
     tl_content: Collection of example Firebase Cloud Functions to demonstrate backend support for Google Apps Script.
