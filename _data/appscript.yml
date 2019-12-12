@@ -1,4 +1,10 @@
 items:
+  - tl_title: Google Document URLs as Simple Machines
+    tl_content: Introduction to the Power of Google Document URLs
+    buttons:
+      - href: 'https://medium.com/@techstreams/google-document-urls-as-simple-machines-400baca6d014'
+        name: <i class="fa fa-rss"></i> Blog Post
+#
   - tl_title: TSDataTable
     tl_content: Simple, Elegant Data Tables for Google Sheets & Sites
     buttons:
