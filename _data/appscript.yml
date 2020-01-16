@@ -12,7 +12,7 @@ items:
         name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/TSDataTable'
         name: <i class="fa fa-github"></i> Script
-      - href: 'https://docs.google.com/spreadsheets/d/18RfAnhgNqKR1edRGVSGLO84r87Rfd5WxpNH3dfxj1Ew/copy'
+      - href: 'https://techstreams.page.link/TSDataTables'
         name: <i class="fa fa-external-link"></i> Google Sheet
 #
   - tl_title: Benfords Law Google Sheets Macro
@@ -22,7 +22,7 @@ items:
         name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/google-sheets-macros'
         name: <i class="fa fa-github"></i> Script
-      - href: 'https://docs.google.com/spreadsheets/d/1VoPTlACDf8MhPxJx5aHwEEoMVtlt9qaSvzzKWS1nenI/copy'
+      - href: 'https://techstreams.page.link/BenfordsLawMacro'
         name: <i class="fa fa-external-link"></i> Google Sheet
 #
   - tl_title: TSFormBot
