@@ -33,7 +33,7 @@ items:
         name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/TSFormBot'
         name: <i class="fa fa-github"></i> Github
-      - href: 'https://docs.google.com/forms/d/1KWev-4-TlVLlNFPrCQlvawZXiDmGFEFJvm4PR2Hrycs/copy'
+      - href: 'https://techstreams.page.link/TSFormBot'
         name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: TSCron
@@ -44,7 +44,7 @@ items:
         name: <i class="fa fa-rss"></i> Blog Post
       - href: 'https://github.com/techstreams/TSCron'
         name: <i class="fa fa-github"></i> Github
-      - href: 'https://docs.google.com/forms/d/1JMuiobgfOyVb9EzbZiMdYnvkTXoSPzZta9MEZ5uKWyU/copy'
+      - href: 'https://techstreams.page.link/TSCron'
         name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: TSMarkMail
@@ -68,7 +68,7 @@ items:
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://github.com/techstreams/TSFormTranslator'
         name: <i class="fa fa-github"></i> Github
-      - href: 'https://docs.google.com/forms/d/1-U8SXOuz9pWPZuRouX-1DNPoNvrzQLtUriqcvAcVuPI/copy'
+      - href: 'https://techstreams.page.link/TSFormTranslator'
         name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: TSContactForm
@@ -80,7 +80,7 @@ items:
         name: <i class="fa fa-book"></i> Docs
       - href: 'https://github.com/techstreams/TSContactForm'
         name: <i class="fa fa-github"></i> Github
-      - href: 'https://docs.google.com/forms/d/1R3UizT2_VeqfgtTiV4NSo5fVVx51syIO6cmQfmQxeJc/copy'
+      - href: 'https://techstreams.page.link/TSContactForm'
         name: <i class="fa fa-external-link"></i> Google Form
 #
   - tl_title: Firebase Cloud Function Examples
