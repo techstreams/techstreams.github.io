@@ -1,4 +1,17 @@
 items:
+  - tl_title: TSDynamicUrls Google Form
+    tl_content: >
+      Apps Script powered dynamic URL generator for <strong>Google Docs, Sheets, Slides, Drawings & Forms</strong> which assists document creators and consumers in leveraging the <strong><em>URL power</em></strong> of Google documents.<br><br>
+    buttons:
+      - href: 'https://medium.com/@techstreams/tsdynamicurls-1-leverage-the-url-power-of-google-docs-sheets-slides-drawings-forms-598b5dd53c98'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://medium.com/@techstreams/tsdynamicurls-1-leverage-the-url-power-of-google-docs-sheets-slides-drawings-forms-598b5dd53c98'
+        name: <i class="fa fa-book"></i> Docs
+      - href: 'https://github.com/techstreams/TSDynamicUrls'
+        name: <i class="fa fa-github"></i> Github
+      - href: 'https://techstreams.page.link/TSDynamicUrlsForm'
+        name: <i class="fa fa-external-link"></i> Google Form
+#
   - tl_title: Google Document URLs as Simple Machines
     tl_content: Introduction to the Power of Google Document URLs
     buttons:
