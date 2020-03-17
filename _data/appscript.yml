@@ -1,4 +1,12 @@
 items:
+  - tl_title: TSWorkflow
+    tl_content: Apps Script Powered G Suite Workflow Automation.
+    buttons:
+      - href: 'https://medium.com/@techstreams/g-suite-solutions-apps-script-powered-workflow-automation-4cb715ea5d0b'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://github.com/techstreams/TSWorkflow'
+        name: <i class="fa fa-github"></i> Github
+#
   - tl_title: TSDynamicUrls Google Form
     tl_content: >
       Apps Script powered dynamic URL generator for <strong>Google Docs, Sheets, Slides, Drawings & Forms</strong> which assists document creators and consumers in leveraging the <strong><em>URL power</em></strong> of Google documents.<br><br>
