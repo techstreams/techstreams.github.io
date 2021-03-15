@@ -1,4 +1,22 @@
 items:
+  - tl_title: TSCodeTalk_Gmail
+    tl_content: A repository of various Gmail Google Apps Scripts.
+    buttons:
+      - href: 'https://github.com/techstreams/TSCodeTalk_Gmail'
+        name: <i class="fa fa-github"></i> Github
+#
+  - tl_title: TSCodeTalk_Forms
+    tl_content: A repository of various Google Forms Google Apps Scripts.
+    buttons:
+      - href: 'https://github.com/techstreams/TSCodeTalk_Forms'
+        name: <i class="fa fa-github"></i> Github
+#
+  - tl_title: TSCodeTalk_Misc
+    tl_content: A repository of various Misc Google Apps Scripts.
+    buttons:
+      - href: 'https://github.com/techstreams/TSCodeTalk_Misc'
+        name: <i class="fa fa-github"></i> Github
+#
   - tl_title: TSWorkflow
     tl_content: Apps Script Powered G Suite Workflow Automation.
     buttons:
