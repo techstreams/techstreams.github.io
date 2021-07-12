@@ -1,4 +1,12 @@
 items:
+  - tl_title: TSChatWise
+    tl_content: Google Sheets and Apps Script powered Google Chat bot for teaching and learning.
+    buttons:
+      - href: 'https://techstreams.medium.com/tschatwise-getting-started-f157860938c4'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://github.com/techstreams/TSChatWise'
+        name: <i class="fa fa-github"></i> Github
+#
   - tl_title: TSCodeTalk_Gmail
     tl_content: A repository of various Gmail Google Apps Scripts.
     buttons:
