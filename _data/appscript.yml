@@ -1,4 +1,15 @@
 items:
+  - tl_title: TSDynamicUrls Web App
+    tl_content: >
+      Apps Script powered dynamic URL generator for <strong>Google Docs, Sheets, Slides, Drawings & Forms</strong> which assists document creators and consumers in leveraging the <strong><em>URL power</em></strong> of Google documents.<br><br>
+    buttons:
+      - href: 'https://techstreams.medium.com/tsdynamicurls-3-leverage-the-url-power-of-google-docs-sheets-slides-drawings-forms-22ab381de9d7'
+        name: <i class="fa fa-rss"></i> Blog Post
+      - href: 'https://github.com/techstreams/TSDynamicUrls'
+        name: <i class="fa fa-github"></i> Github
+      - href: 'https://techstreams.page.link/TSDynamicUrlsWeb'
+        name: <i class="fa fa-external-link"></i> Google Sheet
+#
   - tl_title: TSChatWise
     tl_content: Google Sheets and Apps Script powered Google Chat bot for teaching and learning.
     buttons:
